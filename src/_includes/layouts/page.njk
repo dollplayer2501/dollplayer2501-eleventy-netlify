@@ -1,3 +1,4 @@
+{# get parent page, if it exists #}
 {% set parentInfo = null %}
 {% if 0 < eleventyNavigation.parent | length %}
   {% for item in collections.all | eleventyNavigation %}
@@ -5,6 +6,14 @@
       {% set parentInfo = item %}
     {% endif %}
   {% endfor %}
+{% endif %}
+
+{# set this page's date #}
+{% set created_date = 'none' %}
+{% set modified_date = 'none' %}
+{% if 0 < eleventyNavigation.parent | length %}
+  {% if date %}{% set created_date = date | readableDate %}{% endif %}
+  {% if updated %}{% set modified_date = updated | readableDate %}{% endif %}
 {% endif %}
 
 {% extends "layouts/base.njk" %}
@@ -15,14 +24,14 @@
     <div class="colums">
       <section class="column is-10 is-offset-1">
         <div class="content">
-          <h2 class="h2-">{{ title | safe }}</h2>
-          <hr class="hr" />
+          <h2>{{ title | safe }}</h2>
+          <hr />
           <p class="meta-info">
 {% if 0 < eleventyNavigation.parent | length %}
             <a href="{{ parentInfo.url }}">{{ parentInfo.title }}</a><br />
 {% endif %}
-            Created: {{ date | readableDate }}<br />
-            Modified: {{ updated | readableDate }}
+            Created: {{ created_date }}<br />
+            Modified: {{ modified_date }}
           </p>
 {{ content | safe }}
         </div>
@@ -37,7 +46,7 @@
         <div class="content">
           <h2>Contents...</h2>
           <hr />
-          <ul>
+          <ol>
   {% for item in collections.all | eleventyNavigation(eleventyNavigation.parent) %}
             <li>
     {% if item.url === page.url %}
@@ -47,7 +56,7 @@
     {% endif %}
             </li>
   {% endfor %}
-          </ul>
+          </ol>
           <p>
             From... <a href="{{ parentInfo.url }}">{{ parentInfo.title }}</a>
           </p>

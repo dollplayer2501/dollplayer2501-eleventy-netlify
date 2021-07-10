@@ -1,10 +1,10 @@
 ---
-title: 閑話休題
+title: 閑話休題 No.1 - ふと、ふいにアタマをよぎる曲
 permalink: /musique_non_stop_08.html
 eleventyNavigation:
   parent: musique_non_stop
-  key: 閑話休題
-  title: 閑話休題
+  key: 閑話休題 No.1 - ふと、ふいにアタマをよぎる曲
+  title: 閑話休題 No.1 - ふと、ふいにアタマをよぎる曲
   order: 8
 layout: layouts/page.njk
 metaDesc:

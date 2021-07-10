@@ -1,16 +1,22 @@
 {% extends "layouts/base.njk" %}
 
+{# set this page's date #}
+{% set created_date = 'none' %}
+{% set modified_date = 'none' %}
+{% if date %}{% set created_date = date | readableDate %}{% endif %}
+{% if updated %}{% set modified_date = updated | readableDate %}{% endif %}
+
 {% block contentMain %}
 
   <article id="main-text" class="container">
     <div class="colums">
       <section class="column is-10 is-offset-1">
         <div class="content">
-          <h2 class="h2">{{ title | safe }}</h2>
-          <hr class="hr" />
+          <h2>{{ title | safe }}</h2>
+          <hr />
           <p class="meta-info">
-            Created: {{ date | readableDate }}<br />
-            Modified: {{ updated | readableDate }}
+            Created: {{ created_date }}<br />
+            Modified: {{ modified_date }}
           </p>
 {# This content includes footnotes #}
 {{ content | safe }}
@@ -26,7 +32,7 @@
           <h2 class="h2">Contents...</h2>
           <hr />
 {{ collections.all | eleventyNavigation(page.fileSlug) | eleventyNavigationToHtml({
-  listElement: "ul",
+  listElement: "ol",
   listItemElement: "li",
   listClass: "",
   listItemClass: "",
