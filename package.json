@@ -1,0 +1,37 @@
+{
+  "name": "11ty-base-no-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Eleventy.js",
+  "scripts": {
+    "start": "npx gulp && concurrently 'npx gulp watch' 'npx eleventy --config=Eleventy.js --serve --quiet'",
+    "build": "rm -rf ./docs && npx gulp && concurrently 'npx eleventy --config=Eleventy.js --quiet'",
+    "production": "NODE_ENV=production npx gulp && NODE_ENV=production eleventy --config=Eleventy.js",
+    "dry": "NODE_ENV=production eleventy --dryrun --config=Eleventy.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-navigation": "^0.3.2",
+    "@11ty/eleventy-plugin-rss": "^1.1.1",
+    "bulma": "^0.9.3",
+    "concurrently": "^6.0.2",
+    "get-google-fonts": "^1.2.2",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.0",
+    "html-minifier": "^4.0.0",
+    "luxon": "^1.27.0",
+    "markdown-it": "^12.0.6",
+    "markdown-it-deflist": "^2.1.0",
+    "markdown-it-footnote": "^3.0.3",
+    "markdown-it-table-of-contents": "^0.5.2",
+    "sass": "^1.32.11"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}

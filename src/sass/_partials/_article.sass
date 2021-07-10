@@ -1,0 +1,73 @@
+@charset "utf-8"
+@import './variable'
+
+article.container
+  margin-bottom: $base-margin * 5
+
+  p, dl dt, dl dd
+    font-size: $body-size
+
+  h2
+    margin-top: 0
+    padding-top: 0
+    margin-bottom: 0
+    padding-bottom: 0
+    font-weight: bold
+    color: $hexa-brown-dark
+
+  hr
+    @include hr-linear-gradient(0, 0, $hexa-red, transparent)
+
+  p.meta-info
+    margin-top: 0
+    padding-top: 0
+    margin-bottom: $base-margin * 2
+    padding-bottom: 0
+    text-align: right
+    font-size: 0.9rem
+    line-height: 1.2
+
+    a
+      @include ancher-decolation($hexa-brown-dark, $hexa-red, false)
+      font-weight: bold
+
+  h3
+    font-size: 1.4rem
+    padding-bottom: 0
+    font-weight: bold
+    color: $hexa-brown-dark
+
+  h4
+    font-size: 1.2rem
+    padding-bottom: 0
+    font-weight: bold
+    color: $hexa-brown-dark
+
+  blockquote
+    margin-top: 0
+    padding-top: 0
+    margin-bottom: 0
+    padding-bottom: 0
+    border-left: 1px dotted $hexa-brown-dark
+
+    p
+      margin-top: 0
+      padding-top: 0
+      margin-bottom: $base-margin
+      padding-bottom: 0
+
+  a
+    @include ancher-decolation($hexa-brown-dark, $hexa-red, true)
+
+  ul, ol
+    margin-left: 1.0rem
+
+  dl
+    dt
+      font-weight: bold
+
+    dd
+      margin-left: 1.0rem
+
+  strong
+    color: $hexa-brown-dark

@@ -1,0 +1,23 @@
+@charset "utf-8"
+@import './variable'
+
+@mixin hr-linear-gradient($margin-top, $margin-bottom, $line-color-from, $line-color-to)
+  margin-top: $margin-top
+  margin-bottom: $margin-bottom
+  padding-top: 0
+  padding-bottom: 0
+  height: 1px
+  background-image: linear-gradient(to right, $line-color-from, $line-color-to)
+
+@mixin ancher-decolation($color-normal, $color-hover, $border: false)
+  color: $color-normal
+
+  @if $border
+    border-bottom: 1px dotted $hexa-brown-dark
+  @else
+    border-bottom: none
+
+  &:hover
+    color: $color-hover
+    @if $border
+      border-bottom: none

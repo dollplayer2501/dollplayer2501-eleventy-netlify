@@ -1,0 +1,45 @@
+{% extends "layouts/base.njk" %}
+
+{% block contentMain %}
+
+  <article id="main-text" class="container">
+    <div class="colums">
+      <section class="column is-10 is-offset-1">
+        <div class="content">
+          <h2 class="h2">{{ title | safe }}</h2>
+          <hr class="hr" />
+          <p class="meta-info">
+            Created: {{ date | readableDate }}<br />
+            Modified: {{ updated | readableDate }}
+          </p>
+{# This content includes footnotes #}
+{{ content | safe }}
+        </div>
+      </section>
+    </div>
+  </article>
+
+  <article id="contents-list" class="container">
+    <div class="colums">
+      <section class="column is-10 is-offset-1">
+        <div class="content">
+          <h2 class="h2">Contents...</h2>
+          <hr />
+{{ collections.all | eleventyNavigation(page.fileSlug) | eleventyNavigationToHtml({
+  listElement: "ul",
+  listItemElement: "li",
+  listClass: "",
+  listItemClass: "",
+  listItemHasChildrenClass: "",
+  activeListItemClass: "active",
+  anchorClass: "",
+  activeAnchorClass: "",
+  activeKey: eleventyNavigation.key,
+  showExcerpt: true
+}) | safe }}
+        </div>
+      </section>
+    </div>
+  </article>
+
+{% endblock %}

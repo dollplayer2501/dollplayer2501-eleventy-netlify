@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>unlimited text works, the 4th. posts</title>
+  <subtitle>A feed of the latest posts from our blog.</subtitle>
+  <link href="https://dollplayer2501.github.io/feed.xml" rel="self"/>
+  <link href="https://dollplayer2501.github.io/"/>
+  <updated>2021-07-10T05:41:59Z</updated>
+  <id>https://dollplayer2501.github.io</id>
+  <author>
+    <name>Morry Masahiko</name>
+    <email></email>
+  </author>
+
+  
+  <entry>
+    <title>聴いていた曲を羅列してみる</title>
+    <link href="https://dollplayer2501.github.io/musique_non_stop.html"/>
+    <updated>2021-06-07T00:00:00Z</updated>
+    <id>https://dollplayer2501.github.io/musique_non_stop.html</id>
+    <content type="html"><![CDATA[
+<p>Twitterの「固定されたツイート」に何をピン留めするか、あるいは、しないかは好みが分かれると思います。<br>
+自分の場合、そもそも世間様に向かってアピールできる程の「何か」を持ち合わせていないので、以前はそれをしていませんでした。</p>
+<p>しかしそれでは何とも寂しいなと。<br>
+そのため、ネタが無尽蔵に湧いてくる「今まで聴いていた音楽」はどうだろうかという事で、人様のコンテンツに乗っかる事にしました。<br>
+ただ、何回かの例外はありますが、自分が生きてきた中で魂のナントカ、みたいな比較的重いのは避けて、できる限り新しい曲をピックアップするのを旨としています。<br>
+改めて振り返ると、<a href="https://twitter.com/dollplayer2501">このアカウント</a>が2010年4月開始で、固定ツイートは2017年から開始しています。</p>
+<p>ちなみに自分自身は、当然リアルタイムで<a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9">YMO</a>や<a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF">Kraftwerk</a>から始まり、その後、UK寄り、<a href="https://ja.wikipedia.org/wiki/%E7%AC%AC2%E6%AC%A1%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%B4%E3%82%A7%E3%82%A4%E3%82%B8%E3%83%A7%E3%83%B3">第2次ブリティッシュ・インヴェイジョン</a>な洋楽80's、以降、テクノ系が多いです。</p>
+<p>以下、日付昇順で、アーチスト名、次いで曲名、になります。<br>
+…と書いておかないと、自分もそうですが、どちらがどちらか分からない事が多々ありますので。</p>
+<p>で、本音ですが。<br>
+<a href="https://www.11ty.dev/">Eleventy</a>を使うにあたり、今後自分が記事を量産…はしませんが、日時ベースの「ブログ」形式ではなく、あるテーマに関して複数の記事を持たせる一対N構造、具体的には<a href="https://www.11ty.dev/docs/plugins/navigation/">Navigationプラグイン</a>、あるいは、<a href="https://www.11ty.dev/docs/custom-tags/">カスタムタグ</a>の使い方の習得のため、この投稿群を適当にでっち上げた、になります。</p>
+
+    ]]></content>
+  </entry>
+
+  
+  <entry>
+    <title>DJ Shadow - Midnight In A Perfect World</title>
+    <link href="https://dollplayer2501.github.io/musique_non_stop_01.html"/>
+    <updated>2021-06-07T00:00:00Z</updated>
+    <id>https://dollplayer2501.github.io/musique_non_stop_01.html</id>
+    <content type="html"><![CDATA[
+<p>記念すべき一発目は、やはりどうしても想いが…</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/InFbBlpDTfQ"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>この曲が含まれている<a href="https://en.wikipedia.org/wiki/DJ_Shadow">DJ Shadow</a>のアルバム、<a href="https://en.wikipedia.org/wiki/Endtroducing.....">Endtroducing.....</a>の発表は1996年ですが、自分が聴いたのは2000年前後だった記憶。<br>
+しかもこのアルバム、自力で見つけたのではなく、常駐先の若いプロパー社員さんからCDを貰いました。<br>
+本人…確か<a href="https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%84%E3%83%A1%E3%82%A4%E3%82%B7">ケツメイシ</a>とか聴いていた記憶ですが…は、そこまでテクノ系の血中濃度が高くなかったのか、聴いて合わないと思ったのか何なのか、自分に回したのかなと今になって思います。</p>
+<p>この社員さんとは、2002年に幕張メッセ開催された<a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%A9%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%89">エレグラ</a>やら、今はなき赤坂BLITZだったと記憶してるけど、<a href="https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA">The Chemical Brothers</a>のライブに行ったり。<br>
+ちなみにこの回のエレグラ、Kraftwerkがライブするという事で。</p>
+<p>いやぁ、暗いですねぇ…終末感が出ていますねぇ…そこが好きなのですが。<br>
+自分がこのPVの存在を知ったのは、今が2021年ですけど、例えば10年前とか、そういうレベルですね。<br>
+何と言うか、強烈に「アメリカ」を感じますね…<a href="https://en.wikipedia.org/wiki/Diane_Arbus">Diane Arbus</a>的な…</p>
+<p>自分がこのアルバムを一言で言い表すなら、「 <strong>正座して聴け</strong> 」ですかね。<br>
+テクノやハウス系に多い「テンションが上がる」でもあるのですが、それ以前に凄くストイックで鋭角なカンジがしますね…割と意味不明なコメントではありますが。</p>
+<p>ちなみにこのアルバム、自分の人生の中の3枚のうちの1枚でもあり、夜の住人である自分の葬送曲としてコレ流してくれ、です。</p>
+<p>ところで曲の出だし、これはCDバージョンには無かったのですが、「<a href="https://en.wikipedia.org/wiki/Earl_Palmer">Earl Palmer</a>って誰？」と調べました。</p>
+<blockquote>
+<p>Earl Cyril Palmer (October 25, 1924 – September 19, 2008) was an American drummer and one of the inventors of Rock and Roll. He is a member of the Rock and Roll Hall of Fame.</p>
+</blockquote>
+<p>米国のドラマー、ロックンロールの発明者、殿堂入り…そうか、確かに「発明」だよなぁ…<br>
+一方このアルバム、ほぼ完全にレコード盤のサンプリング音源のみで構成された世界最初のアルバムでギネス認定、だとかで、この方を敢えて引用してるのは、アーチスト（楽曲、映像？）の思いもあってなのだろうな、とか。</p>
+<p>それと、この曲に限った話ではありませんが、同じ曲をYouTubeではなく、ニコ動で雑多なコメントを見るのも楽しいですね…著作権的には、という問題がありますが。<br>
+「みんなこんな事思ってるんだー」とか。</p>
+<iframe width="380" height="160"
+src="https://ext.nicovideo.jp/thumb/sm3451015"
+scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
+<a href="https://www.nicovideo.jp/watch/sm3451015">DJ Shadow - Midnight In A Perfect World</a>
+</iframe><br clear="all" />
+<p>せっかくなので同時期聴いていた曲。<br>
+Temper Temperの印象が強過ぎて…<br>
+これはラジオエディト？だけど、自分はアルバムの曲として聞いてたので、20分程度ある筈。</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/6vHkOI-Z7lY"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p><small>掲載期間：2017-08-09〜</small></p>
+
+    ]]></content>
+  </entry>
+
+  
+  <entry>
+    <title>Ott - Splitting An Atom</title>
+    <link href="https://dollplayer2501.github.io/musique_non_stop_02.html"/>
+    <updated>2021-06-07T00:00:00Z</updated>
+    <id>https://dollplayer2501.github.io/musique_non_stop_02.html</id>
+    <content type="html"><![CDATA[
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/YX5SJtZ5xPE"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>…いや、失礼ながらアーチストの<a href="https://en.wikipedia.org/wiki/Ott_(record_producer)">Ott</a>って全然存じ上げないのですが、何で知ったのだろ…多分、YouTubeの関連動画からかな…覚えてないです…<br>
+ボーカルはあるけど、どこの国のコトバであるかさえ分からない、何かお経みたいだ、とか何とか、そういうのを含めて「気に入った」でした。</p>
+<p>困ったのは購入で。<br>
+iTunes経由では怪しかったので、<a href="https://ottsonic.bandcamp.com/">Bandcamp</a>でアカウントを作り、購入しました。</p>
+<p>この方、他には下記の曲とか。</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/HqEi54H0pWo"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>ところで。<br>
+自分、<a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E_%28%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%B7%E3%83%A3%E3%83%B3%29">Enigma</a>が割と好きです。</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/4F9DxYhqmKw"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>一般的にはジャンルがワールド・ミュージックになるのかな…ヒーリングとはちょっと言いづらい気が。<br>
+今もその延長で、テクノ・ハウス・トランス…などなどであっても、どことなく民族色を感じる音を好んで聞きます。<br>
+下記、自身の中でその先駆けになったアーチスト。</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/Xu9TuPhQWy4"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/m3Hcv3KffeU"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>今だと、例えば、作業しながらこういうのを。</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/NQa_v_MR4zQ"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>なので半世紀程生きて思ったのですが、自分、割と「古今東西問わず、自分が今まで聞いた事の無いサウンド」に惹かれるのではないかと。<br>
+さすがに音楽の体を成してないと辛いですし、聴いて好き嫌いは存在しますし、例えばオールディーズというポピュラーなジャンルの当時の楽曲であったとしても、初聴の自分が「いい」と思ったら、この定義の範疇に含まれます。</p>
+<p><small>掲載期間：2019-02-16〜</small></p>
+<p>同時期、初聴だけど、割と知る人ぞ知る、でもあり、更にちょっと古いので採用を見送った曲。</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/y6120QOlsfU"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/ed18aaOry1A"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+
+    ]]></content>
+  </entry>
+
+  
+  <entry>
+    <title>ddh aka 4つ鬱P - Midnight Coke</title>
+    <link href="https://dollplayer2501.github.io/musique_non_stop_03.html"/>
+    <updated>2021-06-07T00:00:00Z</updated>
+    <id>https://dollplayer2501.github.io/musique_non_stop_03.html</id>
+    <content type="html"><![CDATA[
+<iframe width="380" height="160"
+src="https://ext.nicovideo.jp/thumb/sm11334765"
+scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
+<a href="https://www.nicovideo.jp/watch/sm11334765">【初音ミク】Midnight Coke【オリジナル】</a>
+</iframe><br clear="all" />
+<p><strong>いやぁ、いい。</strong></p>
+<p>…ホント、それしか言えんのですよ…このお方…<br>
+自分からすると、「<a href="https://dic.nicovideo.jp/a/%E6%8C%AF%E3%82%8A%E8%BE%BC%E3%82%81%E3%81%AA%E3%81%84%E8%A9%90%E6%AC%BA">振り込めない詐欺</a>」のレベルですよ…対価喜んで出すから高音質音源売って下さい、ですね。<br>
+ニコ動じゃなく広く世界に打って出るべきだ…この国にこの方…これらの曲へのニーズはそんなに無いかもしれないけど、世界だとそれ以上に確実に存在する、と勝手な事を思ってしまいますね…後方腕組プロデューサヅラするんじゃねえ、になってしまいますが。</p>
+<p>多少真面目な話をしますと、失礼ながら自分、ボカロがどうもダメで…くぐもってる・籠もってる感のある歌声（これは合成音声ソフトにも当てはまるのですが）と、調声によるのでしょうが、音程を外すと引っかかってしまって…ボイロやゆっくりが読み間違える、イントネーションが変、なのは問題無いのですが。<br>
+そんな中、唯一とでも言える自分が聴けるボカロ曲が、ボカロを楽器として捉えた様な、コーラスやスキャットでの使用で…<br>
+これらの曲、ボカロがなくとも成り立つとは思いますが、ある方が一層引き立つ気がします。<br>
+ニコ動だと<a href="https://dic.nicovideo.jp/a/vocaloid%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E6%9B%B2">VOCALOIDインスト曲</a>という、一見矛盾している様なタグが付いてますが。<br>
+および、食わず嫌いな面は否定しませんが、歌詞に共感できる程、自分は若くないし、そもそも音楽に歌詞、イコール、メッセージを求めていない…のかな、そもそもがYMOやKraftwerkが自分の出発点だったし、とか？</p>
+<p>そんな中、当初、ミクさん寄りのヒトのボーカルで多重録音してんのかと勘違いした曲…所詮自分もその程度なんですよ…</p>
+<iframe width="380" height="160"
+src="https://ext.nicovideo.jp/thumb/sm32473674"
+scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
+<a href="https://www.nicovideo.jp/watch/sm32473674">【踊ってみた】好き！雪！本気マジック【電脳少女シロ】</a>
+</iframe><br clear="all" />
+<p>しかしそれにしてもビックリする程、注目されてないんだな…ピークが2010年前後ではありますが…</p>
+<iframe width="380" height="160"
+src="https://ext.nicovideo.jp/thumb/sm13789635"
+scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
+<a href="https://www.nicovideo.jp/watch/sm13789635">【初音ミク】Animistic Prayer【オリジナル】</a>
+</iframe><br clear="all" />
+<iframe width="380" height="160"
+src="https://ext.nicovideo.jp/thumb/sm12937840"
+scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
+<a href="https://www.nicovideo.jp/watch/sm12937840">【初音ミク】Haunting Afterimage【オリジナル】</a>
+</iframe><br clear="all" />
+<iframe width="380" height="160"
+src="https://ext.nicovideo.jp/thumb/sm20962162"
+scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
+<a href="https://www.nicovideo.jp/watch/sm20962162">【初音ミク】Geofront Ventilator【オリジナル】</a>
+</iframe><br clear="all" />
+<p>および、この方も外せませんよね。</p>
+<iframe width="380" height="160"
+src="https://ext.nicovideo.jp/thumb/sm6454787"
+scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
+<a href="https://www.nicovideo.jp/watch/sm6454787">【初音ミク】Stroll</a>
+</iframe><br clear="all" />
+<iframe width="380" height="160"
+src="https://ext.nicovideo.jp/thumb/sm6362687"
+scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
+<a href="https://www.nicovideo.jp/watch/sm6362687">【LOLA】microgroover</a>
+</iframe><br clear="all" />
+<p>あるいは。<br>
+下記、1曲目はともかく（と言うか、EXボイスのこういう使い方あるんだ、とビックリした）、2曲目、ジャズがベースなのかな、よくわからないのですが、フュージョンの匂いを感じるので好きですね。</p>
+<iframe width="380" height="160"
+src="https://ext.nicovideo.jp/thumb/sm33897535"
+scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
+<a href="https://www.nicovideo.jp/watch/sm33897535">アカリがやってきたぞっ</a>
+</iframe><br clear="all" />
+<iframe width="380" height="160"
+src="https://ext.nicovideo.jp/thumb/sm26937870"
+scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
+<a href="https://www.nicovideo.jp/watch/sm26937870">ボーカロイドたちがただ2コードくりかえすだけ</a>
+</iframe><br clear="all" />
+<p>人力EXボイスとでも言うか、さすがやってくれるわ、でした。<br>
+と言うか、元々コチラを最初に聞いた、かもしれません…記憶曖昧…</p>
+<iframe width="380" height="160"
+src="https://ext.nicovideo.jp/thumb/sm34033791"
+scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
+<a href="https://www.nicovideo.jp/watch/sm34033791">アカリがやってきたぞっ/ミライアカリ【歌ってみた】</a>
+</iframe><br clear="all" />
+<p>こういうのを鑑みると、当時は仕方なかったとは思いますが、楽曲だけ、では厳しかったのかなー今はビジュアルにも訴えないと厳しいのか、とも思ってしまいますね。<br>
+歌詞がバンバン出てくる、湧き出してくるパターンも…まぁ、みんな「歌いたい」という欲求があるだろうし、もう、完全に自分向きではないのだろうな（いいのですよそれで）、と、乾いた笑いしか出てきませんね…</p>
+<p><small>掲載期間：2019-10-01〜</small></p>
+
+    ]]></content>
+  </entry>
+
+  
+  <entry>
+    <title>Handkanten Akt from Vier Minuten</title>
+    <link href="https://dollplayer2501.github.io/musique_non_stop_04.html"/>
+    <updated>2021-06-07T00:00:00Z</updated>
+    <id>https://dollplayer2501.github.io/musique_non_stop_04.html</id>
+    <content type="html"><![CDATA[
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/8acN81mRueY"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>ちょっと変化球です。</p>
+<p>この曲は「<a href="https://ja.wikipedia.org/wiki/4%E5%88%86%E9%96%93%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8B%E3%82%B9%E3%83%88">4分間のピアニスト/Vier Minuten</a>」という2006年のドイツ映画の挿入曲です。<br>
+この映画を観た方はお分かりかと思いますが、本編終盤のあのシーンは有名ですが、この曲を主人公が弾くシーンもですね、凄いのですよね…「できんのそんな事」みたいな。</p>
+<p>ところでこの映画、ホント業の深いお二方を主軸に描いていると言いますか…<br>
+どうしても映画最後の4分間に光が当たってしまいますが、特にピアノ教師のお婆様の若かりし頃（第2次世界大戦中…）がですね、ホント。<br>
+ああそう言えば、ピアノ教師と言えばずばりそのものの「<a href="https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%A2%E3%83%8B%E3%82%B9%E3%83%88_(%E6%98%A0%E7%94%BB)">ピアニスト/La Pianiste</a>」という、これまた最後、「え？」となる映画がありましたね。</p>
+<p><small>掲載期間：2020-02-23〜</small></p>
+
+    ]]></content>
+  </entry>
+
+  
+  <entry>
+    <title>Tori Amos - Precious Things</title>
+    <link href="https://dollplayer2501.github.io/musique_non_stop_05.html"/>
+    <updated>2021-06-07T00:00:00Z</updated>
+    <id>https://dollplayer2501.github.io/musique_non_stop_05.html</id>
+    <content type="html"><![CDATA[
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/2CdWEHjaL30?start=797"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>と言うか、<a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BB%E3%82%A8%E3%82%A4%E3%83%A2%E3%82%B9">Tori Amos</a>の、この国における知名度って、どんなものかな、とは思いますが。<br>
+自分の場合、ホノルルに住んでいた時、見る番組が無いので（当時、ネットはそこまで社会インフラではなかった）、MTVを見ていた中で知ったアーチストです。<br>
+そこまで歌詞を追いかけていませんが、「かなり」だとは聞いています。<br>
+と同時に、この表現は正しくないのですが、アメリカの土着的な「何か」を感じますね。</p>
+<p><small>掲載期間：2020-12-08〜</small></p>
+<p>なお、彼女との初見はこの曲…と言うかこのPV。</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/weWtRqoSUOI"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>同時期、流れていた曲…の筈…ちょっと自信ない…</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/8WEtxJ4-sh4"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/n7TLTjqUyog"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/U56Ns66Qrb8"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/Jne9t8sHpUc"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/vU05Eksc_iM"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+
+    ]]></content>
+  </entry>
+
+  
+  <entry>
+    <title>DJonemesis &amp; Lilly - From Eldorado To The Pleiades</title>
+    <link href="https://dollplayer2501.github.io/musique_non_stop_06.html"/>
+    <updated>2021-06-07T00:00:00Z</updated>
+    <id>https://dollplayer2501.github.io/musique_non_stop_06.html</id>
+    <content type="html"><![CDATA[
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/jOQLjYkEhoM"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>以前、海外のPC自作動画を漁っていた時、BGMとして使用されていたのが気になり、<a href="https://www.shazam.com/ja">Shazam</a>しました。</p>
+<p>失礼ながら、この曲を初めて聞いた時は「で、でぃすこ？ちょっと古いなー（でも好きだわ）」と。<br>
+ところがこの曲のリリースが2017年、自分が聴いたのが2018年だったので、「へぇ、イタリアのヒトか…ああ、今はこういうのもアリなんだ」と来て、「去年の曲でしょ、それに反応できたので、自分の耳も捨てたものではないな」と、意味不明な事を思いました。</p>
+<p>ついでに。<br>
+動画で使っていた曲から辿って行く、という面では下記が該当するのですが…が、この曲そのものではなく、フリー素材でもあるこの曲を使っていたVTuberさんがね…一時期、この方の影響力が嫌でVTuberの動画を一切見ない時期（2020年4Q〜2021年1Qあたり、2021年3Q開始時点でもその影響が響いている）がありましたので…曲そのものはアゲアゲで大好きなのですが、どうしても件のVTuberさんの口癖がよぎってしまって…</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/LYgrG_Fhyu8"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>とまぁ辛気臭い話題はともかく、フリー音楽素材とはいえ、普通に聞けるよな有難うございます、と思いました。</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/x8yYo-niDkg"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/bbCdD6YPTJg"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p><small>掲載期間：2021-01-01〜</small></p>
+
+    ]]></content>
+  </entry>
+
+  
+  <entry>
+    <title>Cherry (UA) - Aiza (Original Mix)</title>
+    <link href="https://dollplayer2501.github.io/musique_non_stop_07.html"/>
+    <updated>2021-06-07T00:00:00Z</updated>
+    <id>https://dollplayer2501.github.io/musique_non_stop_07.html</id>
+    <content type="html"><![CDATA[
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/lZhYoVG7F2k"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>この曲は<a href="https://www.shazam.com/ja">Shazam</a>してすぐ、割と脊髄反射的にツイートと固定しましたね。<br>
+ただ、何を経由して知ったのか、つい最近の事にも関わらず、覚えてないです。</p>
+<p>ところで自分は音楽を「演奏する」という概念が今まで、そしてこれからも多分無いと思いますので、この単語が合っているのか分かりませんが、こういうの「<a href="https://ja.wikipedia.org/wiki/4%E3%81%A4%E6%89%93%E3%81%A1">4つ打ち</a>」というのですかね。<br>
+であるとしたら、好きなのでしょうね、自分。<br>
+および、単にサウンドだけでなく、何らかのボーカル…と言うとそこにメッセージが伴う事が多いですが、ではなく、コーラス？スキャット？を取り入れている音楽が好物なのだろうな、と思います。</p>
+<p>後述の通り、コレを書いている時点では、コレで止まっているのと、今の所、変更する予定が無いので、近頃、「おっ」となったアーチストと楽曲を。</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/tGadcNMCeL0?start=1711"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>人力トランスとディジュリドゥ、そりゃトリップするわなぁ、と。</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/p7jOzYTYUHE"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>実は、彼女達の楽曲は「そこまで…」なのですが、DJプレイの選曲が、地中海沿岸諸国の楽曲が多いのかな…なので。<br>
+ただまぁ、凄く多芸だなーすげーな、と、羨望の眼差しです。</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/WbnHutA1u_0"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>うん確かに<a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%E3%83%BB%E3%83%93%E3%83%87%E3%82%AA">AMV</a>って一昔前流行ったよな、という印象。<br>
+…で自分は止まってました。</p>
+<iframe width="380" height="160"
+src="https://ext.nicovideo.jp/thumb/sm26717"
+scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
+<a href="https://www.nicovideo.jp/watch/sm26717">School Days AMV</a>
+</iframe><br clear="all" />
+<p>のですが。<br>
+このアーチストさんは以前から存じてましたが、ちょっと好みから外れるかな、でした。<br>
+ですがこのアニメ…<a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC_%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%882022">BLADE RUNNER 2049 - &quot;Black Out 2022&quot; Anime Short</a>、なのかな、ちょっと気になったと言いますか…失礼ながら絵柄があまり萌え萌えしてないからかな…元々、攻殻機動隊や<a href="https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%83%99%E3%83%AD%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AC">ケルベロス・サーガ</a>が好きなのもありますし、事実上、自分はそこで止まっている、といっても過言ではないので…</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/rrZk9sSgRyQ"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p><small>掲載期間：2021-05-17〜</small></p>
+
+    ]]></content>
+  </entry>
+
+  
+  <entry>
+    <title>閑話休題</title>
+    <link href="https://dollplayer2501.github.io/musique_non_stop_08.html"/>
+    <updated>2021-06-07T00:00:00Z</updated>
+    <id>https://dollplayer2501.github.io/musique_non_stop_08.html</id>
+    <content type="html"><![CDATA[
+<p>以上までが「過去」になり、これ以降はリアルタイムで更新…していけるといいなぁ、です。<br>
+つまりそれは、今回のプラットフォームとして選択した<a href="https://www.11ty.dev/">Eleventy</a>の常用運用フェーズに入った、という事になります…というのは、まぁどうでもいい事ですが。</p>
+<h3>せっかくなので、ふと、ふいにアタマをよぎる曲を何曲か</h3>
+<p>いや何となく。<br>
+みんなそういうの、ありませんかね？<br>
+アタシの中で麻薬物質みたくとめどなく排出されゆくのでして、結構長くリフレインしてますね。</p>
+<h4>80's洋楽</h4>
+<p>当時そこまで…アルバムを入手してまで聞いた曲ではないのですがね…</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/6e4WLdLNajs"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/p3j2NYZ8FKs"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<h4>Captain Funk - Style Stage 8 Bustin' Out 74 Minutes Mix</h4>
+<p>以下、そのアルバム…と言うべきか、で使われている曲になります。（このアルバム自体、YouTubeに存在して問題無くリンクできるか微妙なので）<br>
+でまぁ思ったのは、「盛り上がるトコロ使ってんだー」で、曲単体として聞くと「結構薄い？」と感じました、感じてしまいました。</p>
+<p>参考までに、このアルバムで使われている収録曲一覧は下記URL。<br>
+<a href="https://www.discogs.com/ja/Captain-Funk-Style-Stage-8-Bustin-Out-74-Minutes-Mix/release/751740">Captain Funk – Style Stage 8 - Bustin' Out 74 Minutes Mix (1999, CD) - Discogs</a></p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/7g4ibhnCAqw"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/ItzYQqCG7ss"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/5BIIBWhKqqg"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>せっかくなのでコレも張っておきますね。</p>
+<iframe width="480" height="270" class="mb-4"
+src="https://www.youtube.com/embed/FQlAEiCb8m0"
+title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
+</iframe>
+<p>いや実は、原曲…と言うべきか、それを聞いてみようと思ったのは、このアルバムを入手してから10年以上経て、でして、当時、<a href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%81%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC">OMY</a>ぐらいしか知らなかったのですが、あまりその先に進もうとも思わなかったです。</p>
+
+    ]]></content>
+  </entry>
+
+  
+  <entry>
+    <title>それ以前の状況について私が知っている二、三の事柄</title>
+    <link href="https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_01.html"/>
+    <updated>2021-06-07T00:00:00Z</updated>
+    <id>https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_01.html</id>
+    <content type="html"><![CDATA[
+<p>一応、簡単にこれまでの経緯を説明しますと、時は21世紀初初頭にまで遡りまして、ざっくり…</p>
+<ol>
+<li>亡国のSIer、COBOLer</li>
+<li>HTML/CSS/JavaScript手打ちの時代 … <strong>1st.</strong></li>
+<li><a href="http://www.h14m.org/">はいぱー日記システム</a>の時代</li>
+<li><a href="http://blosxom.sourceforge.net/">Blosxom</a>の時代 … <strong>2nd.</strong></li>
+<li><a href="https://diary.hatenastaff.com/">はてなダイアリー</a>などを使用していた時代</li>
+<li>PHPと<a href="https://pecl.php.net/">PECL</a>で、自分がよく使う<a href="https://help.hatenablog.com/entry/text-hatena-list">はてな記法</a>を独自実装していた時代</li>
+<li><a href="https://codeigniter.com/">Codeigniter</a>、次いで<a href="https://getcomposer.org/">Composer</a>や<a href="https://www.slimframework.com/">Slim Framework</a>を知る、使う</li>
+<li><a href="https://wordpress.org/">WordPress</a>の時代 … <strong>3rd.</strong></li>
+<li><a href="https://getbootstrap.com/">Bootstrap</a>を知る、使う、様々なCSSフレームワークを漁り始める</li>
+<li><a href="https://www.vagrantup.com/">Vagrant</a>を知る、使う、残念ながら<a href="https://docs.docker.com/">Docker</a>などコンテナ型仮想化は(ry</li>
+<li><a href="https://gulpjs.com/">Gulp</a>をベースに<a href="https://sass-lang.com/">Sass/SCSS</a>、<a href="https://pugjs.org/">Jade/Pug</a>などを知る、使う</li>
+<li><a href="https://nodejs.org/en/">Node</a>周りのフロントエンド系を本格的に触り始める…「フロントエンド情勢は複雑怪奇」という声明は残さない</li>
+<li>いまココ、2021年梅雨の頃 … <strong>4th.</strong></li>
+</ol>
+<p>…になります。<br>
+まぁ、エモノ…器が変わっただけで、内容、コンテンツ（の質）は当時から、ほっとんど変わってませんけどねHAHAHAですが。<br>
+と言うよりも、その独りよがりな駄文を加速するためのプラットフォームを目指してるのですがそれは。</p>
+<p>3rd.のWordPressですが、<a href="https://wordpress.org/gutenberg/">Gutenberg</a>がまだ実装されておらず…アナウンスはされていたかも、<a href="https://developer.wordpress.org/rest-api/">REST API</a>が実装されたかな、という頃でした。<br>
+最終的には<a href="https://wp-cli.org/">WP-CLI</a>で管理、その次、そろそろ<a href="http://vccw.cc/">VCCW</a>に手を出してみるか、の前にサイトを閉鎖しました。</p>
+<p>今回の4th.は、そもそものサーバサイド生成から静的サイト生成、プラス、ホスティングも格安レンタルサーバというレベルですが、自前から外部サービスの利用へ大変換を遂げるという、自分にとっては大事業になる訳で。<br>
+ちなみに<a href="https://picocms.org/">Pico CMS</a>での実装…足りない機能をプラグインとして独自実装していた程度までは進めていましたが、結局、お蔵入りさせる運びになりました。</p>
+
+    ]]></content>
+  </entry>
+
+  
+  <entry>
+    <title>ベースとなる技術ついて私が知っている二、三の事柄</title>
+    <link href="https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_02.html"/>
+    <updated>2021-06-07T00:00:00Z</updated>
+    <id>https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_02.html</id>
+    <content type="html"><![CDATA[
+<p>ここでは11ty/Eleventy <em>以外</em> の技術に関して、以下、戯言を。</p>
+<h3>Bulma CSS Framework</h3>
+<ul>
+<li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+<li><a href="https://materializecss.com/">MaterializeCSS</a></li>
+<li><a href="https://github.com/thoughtbot/bourbon/">Bourbon</a> / <a href="https://github.com/thoughtbot/neat">Neat</a> / <a href="https://github.com/thoughtbot/bitters">Bitters</a> / <a href="https://github.com/thoughtbot/refills">Refills</a></li>
+<li><a href="http://getskeleton.com/">Skeleton</a></li>
+<li><a href="https://milligram.io/">Milligram</a></li>
+<li><a href="https://codyhouse.co/">CodyHouse</a></li>
+<li><a href="https://github.com/ajlkn/skel">skel</a> via <a href="https://html5up.net/">HTML5 UP!</a></li>
+</ul>
+<p>これらのトレンドが、自分の中であったのかなーと今にして思います。<br>
+いや別に時と場合によっては、素のBootstrapに<a href="https://bootswatch.com/">Bootswatch</a>を被せる程度、もしくは<a href="https://honokak.osaka/">Honoka</a>を使うよ、程度の想いもありますが。<br>
+ちなみに最初の2つ、割と重めに感じるので基本、素のままで使いたいかなぁ、ですが、それ以降は、それぞれの開発者様が提供しているSass/SCSSをイジりたいかな、ですね。</p>
+<p>…のですが、今回は<code>npm install bulma</code>しましたし、今後はこのパターンを採用すると思います。<br>
+Bulmaの場合だと、Webpackでの利用方法ではありますが、<a href="https://bulma.io/documentation/customize/with-webpack/#9-add-your-own-bulma-styles">Add your own Bulma styles - With webpack</a>とありますので、それを参考にしました。<br>
+外部に公開している変数を先に書き換えて…何となくの感覚的にですが、微妙にうまく行かない事も無い事も無い気がしますが…それはともかく、次いで、Bulmaの各コンポーネントを<code>@import</code>する、と、分かってしまえば実に簡単な仕組みだなと。<br>
+ちなみに、本家のこの作例だと、取り込まれない機能があります。<br>
+このため<code>./node_modules/bulma/bulma.sass</code>を参照して下さい。<br>
+感覚的には変数を書き換えるだけとは申しましたが、かなーりアチコチに飛んで、という印象ですが、そもそもそういうモノだからそれに従うしか、ですね。</p>
+<p><a href="https://tailwindcss.com/">Tailwind CSS</a>も十分、視野に入っていました…が、使用を見送りました。<br>
+所詮は戯言にしか過ぎませんが、コンポーネント指向のプロダクトを使う場合、いいのではないかと感じています。<br>
+例えば「<a href="https://coliss.com/articles/build-websites/operation/css/why-tailwind-css-is-not-for-me.html">Tailwind CSSが私には合わなかった理由 | コリス</a>」にありますが…本文、そのほとんどを自分は理解できませんでしたが、<code>@apply</code>を使いたい欲求に駆られるだろうな、でもコレ使っちゃうとTailwindの利点、消してしまわないか、でもPurgeできるのはいいよな、別にミリ秒を競うサイトを構築している訳じゃないにしても、みたいな？</p>
+<p>および、恥ずかしながら自分、コンポーネントを独自で実装できないのですよね…<br>
+ヘッダを全面画像、かつ、カルーセルにする、トップ固定のナビゲーションなどの実装を。<br>
+起点は有料・無料のテンプレートありきで、そのため、Bourbonを核とするプロダクト群やHTML5 UP、CobyHouseなどは結構、有用かなと思っています…が、前者2つは現在、開発が止まっているな、という印象です。</p>
+<h3>Nunjucks</h3>
+<p>個人的には、タブやスペースのインデントで管理しなければならないというデメリット…なのかな、それもありますが、記述量が格段に少ない<a href="https://pugjs.org/">Jade/Pug</a>が好きですね。<br>
+11ty/EleventyでもPugを扱えますが、<a href="https://mozilla.github.io/nunjucks/">Nunjucks</a>とPugでは扱える機能に差があるので、初見ですがNunjucksを選択しました。</p>
+<ul>
+<li><a href="https://www.11ty.dev/docs/languages/nunjucks/">Template Language—Nunjucks | Eleventy, a simpler static site generator.</a></li>
+<li><a href="https://www.11ty.dev/docs/languages/pug/">Pug | Eleventy, a simpler static site generator.</a></li>
+</ul>
+<p>もしもPugがNunjucksと同程度の機能を提供していたら当然使っていたと思いますし、Bulma CSSではなくTailwind CSSを選択していただろうな、と思います。</p>
+<p>ちなみにPHPでは<a href="https://twig.symfony.com/">Twig</a>一択でした、です。<br>
+このため、Pugでデザインしても結局は素のHTMLにしないと使えない訳で、一方で<a href="https://phug.selfbuild.fr/">Phug</a>や<a href="https://github.com/pug-php/pug">pug-php/pug</a>も存在するらしいのですが、まだ試用すらしていない段階です。</p>
+<h3>Laravel Mix …の採用は現在、見送ってます</h3>
+<p>現在リリースしているこのバージョンは、<a href="https://piccalil.li/course/learn-eleventy-from-scratch/">Learn Eleventy From Scratch - Piccalilli</a>を参考にしたためで、それ以前、ゼロベースでLaravel Mixから構築していました。<br>
+どこかの段階で切り替えたいとは思ってはいますが。</p>
+<p>正直なトコロ、<a href="https://webpack.js.org/">Webpack</a>ですら、よく分かってない、というのが本音です。<br>
+具体的には、<code>npm install --save-dev HOGE</code>して、<code>webpack.config.js</code>にゴリゴリと、みたいな使い方できるのかと問われると、今の段階では<a href="https://laravel-mix.com/">Laravel Mix</a>も含めて「無理です」としか。<br>
+何と言いますかね、 Webpackの概念やインストールの日本語記事は豊富にヒットしますがその先、さぁ使ってみるぞ、じゃぁこのプロジェクトに実戦投入してみるか、の段階でアタマが真っ白になり、手が動かない、みたいな…という思いがありますね。<br>
+これは別にWebpackだけに限らず、フロントエンド全般に言えるのではないかなーと以上老害の戯言…単なるスキル不足です、で片付く問題だと思いますが。</p>
+<p>例えばPHPフレームワークをベースにしたプロダクトの場合、それが使っているからそれをそのままで使う、みたいな、あるプロダクトやスタータキットが使っているから、自分もそのままで使っているレベルでいいのではないか、ブラックボックスはブラックボックスのままに一旦はしておいて、別に特段構えて取り組むモノでもないかな、ですかねぇ…セキュリティが絡むとかなり危険かもしれませんが…</p>
+<p>Laravel Mixに目を向けた理由ですが、これまたイマイチ状況が掴みにくいSass/SCSS周りを簡単に扱える、というのが大きいです…が、<a href="https://nodejs.org/ja/">Node.js</a>のバージョンに依存する…のかな、このため、<a href="https://github.com/nvm-sh/nvm">nvm</a>の使用が前提となる、かもしれませんが。</p>
+<p>具体的には、下記の記事や11ty/Eleventyの<a href="https://www.11ty.dev/docs/starter/">スタータプロジェクト</a>を参考にしました。<br>
+思っていたよりも複雑ではなかったかな、という印象です…表層上を「撫でる」程度の利用レベルだと。</p>
+<ul>
+<li><a href="https://www.mikestreety.co.uk/blog/using-laravel-mix-with-eleventy-11ty">Compiling your front-end assets with Laravel Mix while your 11ty site builds, so you don't have to switch between processes - Mike Street - Lead Developer and CTO</a></li>
+<li><a href="https://github.com/josephdyer/skeleventy">josephdyer/skeleventy: A skeleton boilerplate built with Eleventy.</a></li>
+</ul>
+<p>当初見えなかったのは、「どうやって11ty/EleventyとWebpackやLaravel Mixを連動させているのかな、それぞれのコンフィグで何かやってるのかな」でした。<br>
+個人的な結論を言えば、「連動させていない」かなと思います。<br>
+なのでもしも連動させているとすれば、<code>package.json</code>の<code>scripts</code>で起動をコントロールしているという印象です…が、<code>npm run</code>って今まで避けてきた課題でしたので、これを機会に本腰を入れて、になりました。<br>
+それと例えば<a href="https://www.browsersync.io/">Browsersync</a>やSass/SCSSは、WebpackやLaravel Mixでも11ty/Eleventyでも管理できるので、どの機能はどちらで管理するのか、といった切り分けは必要かもしれません…が、今は何となくの雰囲気で何とかなってるヨシ！といった状況ですね。</p>
+<h3>じゃぁGulpは今後使わないの？</h3>
+<p>いやそれはないと思いますよ。<br>
+チーム開発は別に、私自身に限っては、ですが。<br>
+おそらくですが、今後も半分趣味でもあるHTMLテンプレート漁りはすると思います。<br>
+その時、より深くイジりたいな、という欲求が生じた場合、Gulpをベースに環境を構築するのが手っ取り早いかな、という使い方になると思いますが。</p>
+<p>今回、Gulpを採用しているのは、前述の「Learn Eleventy From Scratch」で、「ああ、Gulpのタスク分割って、こうやるんだ…」が、ようやく、ようやく分かったので…逆に言うと、Laravel Mixでもその方法が分かれば移行するのではないかと…<br>
+ちなみに、各機能を<code>module.exports</code>して、<code>gulpfile.js</code>で<code>require</code>してるだけと言えばそれだけですが…そこまで解説している日本語情報って…多分あるのかもしれませんが…</p>
+
+    ]]></content>
+  </entry>
+
+  
+  <entry>
+    <title>基礎習得後の苦難ついて私が知っている二、三の事柄</title>
+    <link href="https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_03.html"/>
+    <updated>2021-06-07T00:00:00Z</updated>
+    <id>https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_03.html</id>
+    <content type="html"><![CDATA[
+<p>さて、ようやく本題？</p>
+<h3>11ty/Eleventy</h3>
+<p>例えば<a href="https://jamstack.org/generators/">Jamstack.org</a>を一覧すればお分かりの通り、JavaScriptベースの静的サイト生成ツールは様々あります。<br>
+JavaScriptベースに限らず有名ドコロだと、何となくの印象的なトレンドで、<a href="https://jekyllrb.com/">Jekyll</a>から始まり、<a href="https://hexo.io/">Hexo</a>や<a href="https://gohugo.io/">Hugo</a>の時代が来て、今は<a href="https://www.gatsbyjs.com/">Gatsby</a>や<a href="https://nextjs.org/">Next.js</a>が熱いぜ、みたいな？</p>
+<p>あくまで個人的な印象ですが、日本語情報が豊富に入手できるGatsbyやNext.jsではなく、何故に<a href="https://www.11ty.dev/">11ty/Eleventy</a>にしたのか、ですが、「個人的に、とっつきやすかった」になります。<br>
+何とも曖昧な表現ですが、コレに限らず、数多のフレームワークって「相性」ってあるのではないかと。<br>
+何と言うか…打てば響く、ではないですが、分からなくても調べてそれを元に実装すれば「できた」となる達成感…学習曲線みたいな…</p>
+<p>とは言うものの、結局の所、コンポーネント指向の波に乗り切れていないロートル・老害でしか無いと言えば実にその通りなのでありまして。<br>
+逆に言うと11ty/Eleventyは自分自身の過去の開発技法、ベースとなるページレイアウトを作り、それを継承/extendして…コンポーネント別にincludeさせず、個々のページの変更点だけを書いていく、という手法ですね。<br>
+あ、いや、ReactやVueをベースにしたプロダクトもそうなのかもしれませんが、何故だろ…何かこう、しっくり来なかったと言うか…<br>
+だからと言って11ty/Eleventyはそういうロートル向けかとか、そういう<ruby>議論を吹っかけるの<rt>マサカリ</rt></ruby>は、やめて下さい…既に自分は死に体ですので、完全に無意味な行為です…</p>
+<p>および、コレを書いている初稿の時点では実装していませんが、「<a href="https://qiita.com/yuki0410_/items/712cd998c3df55ba58c8">11ty/eleventy×microCMSを使ったJamstackなサイトの作り方 - Qiita</a>」とありますので、Jamstackを実装できるなら何でもいいや、非同期処理やキャッシュも使えるし、それよりも個別に管理画面を実装するの、面倒だしなぁ、というやや投げやりな理由もあります。</p>
+<p>また、PHPベースの静的サイト生成も可能ではありますが、Sass/SCSSなども同時に触る必要があるため、だったら、Node.jsで統一した方がいいんじゃないかな、とも思いましたので、採用を見送りました。</p>
+<h3>問題はその先に存在した</h3>
+<p>でまぁ。<br>
+具体的に使うとなると、どういったアプローチをするのがいいのだろうか？です。<br>
+逆に言うと、GatsbyやNext.jsは、このアプローチ、具体的には、スタータキット・テンプレートなどが最初にありきでつまづいてしまったのかな、自分の場合、と思いますが…正直、分からないですね…<br>
+何と言うか、チュートリアル卒業後から実戦配備への閾値…学習コストが高すぎると言うか…特に自分含めて初見さんだと…とは感じますね…<br>
+結論の一つとして、 <strong>モダンなJavaScriptの記述方が身に付いていない</strong> 、それに尽きるのではないかと。<br>
+もう一つ挙げるなら、ピン技術屋の限界ですね…手近に相談できる知り合いが居ないという。</p>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こういう実学だと「分かったつもりになれたらおしまい」ではなく「学んだ先に実践の場がある」ものなので、いざ実践してみた途端にその薄っぺらさが露顕してしまうことが多い。そこできちんと学び直せる人はまだ良いのだけど、浅薄さを隠してデキるふりばかりするようになったらダークサイドまっしぐら</p>&mdash; TJO (@TJO_datasci) <a href="https://twitter.com/TJO_datasci/status/1410801686201835524?ref_src=twsrc%5Etfw">July 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>正にその通りでありまして。<br>
+…と言いますか「浅薄さを隠してデキるふりばかりする」って何だそりゃ…あ、この自分の投稿かぁ、とか何とか。</p>
+<p>今回の11ty/Eleventyに関しても、当初はこのアプローチ、さくっと11ty/Eleventyのチュートリアル、次いで、スタータキット・テンプレートを漁る、でしたが、行き詰まり感が凄くて、結局ゼロベースから構築…多分5〜6回程スクラップ&amp;ビルド、しかし最終的には、<a href="https://github.com/andy-piccalilli/11ty-pattern-library">andy-piccalilli/11ty-pattern-library</a>をFork程度では済まない程、改修した、になります。<br>
+当たり前ですが現実問題として、自分のニーズにドンピシャなスタータキットは存在せず、何かを足すか引くかしないと使えません。<br>
+足す場合はともかく、引くのは至難の業ではないかと思いますし、いっその事、スルーするのも一つの方法だったかな、と今にして思いますが。<br>
+ただし足す場合も、既存のスタータの作法に従って、どこに何を追加するか、となると結構骨の折れる作業ではないかなと思わずにはおれません。<br>
+だからと言ってゼロベースだと薄すぎて、といったジレンマがですね…</p>
+<p>ところで今回このサイトを立ち上げるにあたって、2つの最低限の目標がありました。</p>
+<p>一つ目、個別の文言は全てJSONあるいはMarkdownやYAML front matterで管理して、テンプレには書かない、という<a href="https://ja.wikipedia.org/wiki/Model_View_Controller">MVC</a>的な考え方です…が、実際問題、どぉなんだろね、やたら変なトコロにこだわってるのかなぁ、という思いがありますが。<br>
+一応の建前として、自分が構築した環境をユーザさんに手渡した後、HTMLタグが入ったファイルを修正、修正ミスで画面がワヤクチャに…を避ける、という。<br>
+ただしこれは別に静的サイトジェネレータを使わずとも、私レベルでも既存の手法、GulpとPugをベースにした方法でもできます。</p>
+<p>ところが二つ目、複数ページを同一テンプレートで管理する、となると、Gulpがベースだと今の時代、厳しい気が…補足しますと、かつては「できた」ですし、今もそれに従えば可能かと思いますが、今となっては何分古い情報なのと、そこで使用されていたNpmのパッケージのアップデートが行われていないため、使用を躊躇しまして。<br>
+あるいは、自分の大好きな<a href="https://harpjs.com/">Harp</a>でも可能かと思います。<br>
+ホントねぇ…同一基準で記述した複数のMarkdownやYAML front matterなどがあり、それをある一つのテンプレに流し込んで、それぞれのHTMLを吐き出す、それだけなんですが…何ともまぁ…何かGulpの思想と合致しないのか何なのか…<br>
+ただまぁ、今更と言っては失礼ですが、過去の技術…おいコレ凄く失礼だぞ…に固執する必然性もないし、何よりいずれ近い将来Jamstackを触りたい、という欲求がありましたので。</p>
+<p>という訳で、改めて11ty/Eleventyのスタータプロジェクトを手当たり次第で<code>git clone</code>、<code>npm install</code>、と同時に、チラッとコードを眺めて「なるほど、この機能や挙動はこうやって実装・記述してるのか」を把握しました。<br>
+それをある程度まで進めると、パターン化できるというか、それぞれのプロジェクトによって微妙に書き方やファイルの配置が違うけど、大枠で傾向が見えてきた、気分になりました。<br>
+次にゼロベースからの実装になる訳ですが、前述の<code>git clone</code>したコードや本家のドキュメントから失敬する、になります。<br>
+ですが、場合によっては、いきなり現在構築中の環境に取り込むのではなく、別環境で<code>npm init -y</code>から始めて、改めて挙動の確認をする、といった回りくどい方法も採りましたが。<br>
+とは言え、最終的には前述の通り、11ty/EleventyとGulpで構築されたテンプレートをベースにした訳ですが。</p>
+<p>それともう一つ、技術マターではなく、作業の進め方として、完璧を目指さず、抱え込まず、さっさと全世界に公開して、徐々に完成度を高めていこうではないか、最低限のレベルは存在するにしても、という。<br>
+今更ながらですが、Git/GitHubを使い始めたので、この様な段階的なアプローチに適した環境/ツールではないかと思います。<br>
+また、今回からはデータ…駄文がテキストファイルとして完全に手元に残りますので、行き詰まったらその時、諦めて次を漁ろう、といったスタンスでもあります。</p>
+<h3>Morryセンセの次回作にご期待ください</h3>
+<p>ですかねぇ…<br>
+現時点で文章を打ちながら、「この機能が無い、どうやって実装するのだろ」で、調べて簡単そうだと実装するし、そうでないなら後日後回し、ともかく早くリリースせにゃならんし…というのが本音です。</p>
+<p>例えばこのページの下、これら一連の投稿一覧がありますが、「このページをActiveにしてるの、変だろ、Breadcrumbも無いし、この一連のページトップ、どこ？ww」<br>
+いや分かってますよ…それが自身でサクッとできるならやってますがな…など。（Breadcrumbはできますが現在見送り）</p>
+<p>あるいは、自身の文章のクセ、脚注（<a href="https://www.npmjs.com/package/markdown-it-footnote">markdown-it-footnote</a>）は取り入れてますが稼働確認のみ、ToC（<a href="https://www.npmjs.com/package/markdown-it-table-of-contents">markdown-it-table-of-contents</a>）は未実装、ただし必要なのかな、という段階、画像は<a href="https://www.11ty.dev/docs/plugins/image/">@11ty/eleventy-img</a>があるけど…うーん、スターターキットでの使用はあるのか、という理由からGulp側で管理、などなど。</p>
+<p>恥ずかしながら、例えば<a href="https://www.11ty.dev/docs/shortcodes/">ショートコード</a>という機能があります。<br>
+サンプルや多くのスタータキットだと、無視されているか、コンフィグである<code>.eleventy.js</code>に直書きしてあり、流石にそれは無いだろー普通、外出ししない？と来て、じゃぁどうやって、と。<br>
+で、それが前述した「モダンなJavaScriptの記述方」になる訳で、その辺が一番しんどいですね…と言うか、未だにホント、分からない…自力で書ける気がしない…よく自力でコーディングサンプル見つけたよ、です…</p>
+<p>ざっと11ty/Eleventyを実戦を念頭に使った感じ、<a href="https://www.11ty.dev/docs/custom-tags/">カスタムタグ</a>と<a href="https://www.11ty.dev/docs/plugins/navigation/">Navigationプラグイン</a>の使い分け、そのページで取得できるメタ情報…PHPだと<code>verdump</code>で確認しがちな、が、ちょっと不明瞭な点が多く（当然現時点でも）、失礼ながら、これが<a href="https://picocms.org/">Pico CMS</a>だと、かなりある程度何とでもなるのに、みたいな葛藤がありました、あります。<br>
+これらは今後の運用で、クリアしていかなければならない問題ではありますが、自身での使用ならともかく、ユーザさんからのリクエストだと、現時点では解決できない可能性の方が高いですね。</p>
+
+    ]]></content>
+  </entry>
+
+  
+  <entry>
+    <title>このサイトの構築について私が知っている二、三の事柄</title>
+    <link href="https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site.html"/>
+    <updated>2021-07-04T00:00:00Z</updated>
+    <id>https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site.html</id>
+    <content type="html"><![CDATA[
+<p>いや、その映画…監督含めて、タイトルは知ってはいますが、観た事無いです…ああ、ムーンライダーズの楽曲も聞いた事無いなぁ…<br>
+…はともかく、もしも真面目に<a href="https://www.11ty.dev/">11ty/Eleventy</a>の情報を、の方々には非常に申し訳ないですが、ここに的確で有用な情報は無いと思います。<br>
+このため、結論として言えるのは、下記の3点ですね…</p>
+<ul>
+<li><a href="https://www.11ty.dev/docs/starter/">本家のStarter Projects</a>を数多く、ともかく漁って下さい…特に本家作成のブログ<a href="https://github.com/11ty/eleventy-base-blog">eleventy-base-blog</a>は…</li>
+<li>英語、Gulpがベース、ちょっと馴染みのないCSSフレームワークを使っていますが、<a href="https://piccalil.li/course/learn-eleventy-from-scratch/">Learn Eleventy From Scratch - Piccalilli</a>で勉強して下さい…様々な付帯する技術も習得できると思います</li>
+<li>表記ゆれがありますが、Qiitaのタグ、<a href="https://qiita.com/tags/eleventy">eleventy</a>・<a href="https://qiita.com/tags/11ty">11ty</a>で確認して下さい</li>
+</ul>
+
+    ]]></content>
+  </entry>
+
+  
+  <entry>
+    <title>Welcome!</title>
+    <link href="https://dollplayer2501.github.io/"/>
+    <updated>2021-07-06T05:39:48Z</updated>
+    <id>https://dollplayer2501.github.io/</id>
+    <content type="html"><![CDATA[
+<h2>Who am I...</h2>
+<hr>
+<p>唐突な自分語りは如何なものか…<br>
+しかも無駄に長い…</p>
+
+    ]]></content>
+  </entry>
+
+</feed>

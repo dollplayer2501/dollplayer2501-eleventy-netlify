@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Eleventy",
+    "description": "static site generator",
+    "url": "https://www.11ty.dev/"
+  },
+  {
+    "name": "Gulp.js",
+    "description": "",
+    "url": "https://gulpjs.com/"
+  },
+  {
+    "name": "Bulma",
+    "description": "CSS framework",
+    "url": "https://bulma.io/"
+  },
+  {
+    "name": "Nunjucks",
+    "description": "JavaScript template engine",
+    "url": "https://mozilla.github.io/nunjucks/"
+  },
+  {
+    "name": "GitHub Pages",
+    "description": "",
+    "url": "https://pages.github.com/"
+  },
+  {
+    "name": "Learn Eleventy From Scratch",
+    "description": "",
+    "url": "https://piccalil.li/course/learn-eleventy-from-scratch/"
+  },
+
+  {
+    "name": "andy-piccalilli/11ty-pattern-library",
+    "description": "",
+    "url": "https://github.com/andy-piccalilli/11ty-pattern-library"
+  }
+]

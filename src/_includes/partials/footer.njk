@@ -1,0 +1,51 @@
+<footer class="footer">
+  <div class="container">
+    <section class="columns">
+
+      <article class="column is-two-thirds-desktop">
+        <h2>More Info...</h2>
+        <hr />
+        <p>
+          Special thanks...
+{% for item in thanks %}
+          <a href="{{ item.url }}">{{ item.name | safe }}</a>{% if loop.last %}.{% else %}, {% endif %}
+{% endfor %}
+        </p>
+        <p>
+          {{ site.author.name }} is here...
+{% for item in social %}
+          <a href="{{ item.url }}">{{ item.name | safe }}</a>{% if loop.last %}.{% else %}, {% endif %}
+{% endfor %}
+        </p>
+      </article>
+
+      <article class="column">
+        <h2>Contents...</h2>
+        <hr />
+        <ul>
+{% for item in collections.all | eleventyNavigation %}
+          <li>
+  {# This post is Parent or Child? #}
+  {% if eleventyNavigation.parent | length != 0 %}
+    {# Here is Child #}
+    {% if eleventyNavigation.parent === item.key %}
+              <strong>{{ item.title }}</strong>
+    {% else %}
+              <a href="{{ item.url }}">{{ item.title }}</a>
+    {% endif %}
+  {% else %}
+    {# Here is Parent #}
+    {% if item.url === page.url %}
+              <strong>{{ item.title }}</strong>
+    {% else %}
+              <a href="{{ item.url }}">{{ item.title }}</a>
+    {% endif %}
+  {% endif %}
+          </li>
+{% endfor %}
+        </ul>
+      </article>
+
+    </section>
+  </div>
+</footer>

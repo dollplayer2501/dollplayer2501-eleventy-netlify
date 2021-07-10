@@ -1,0 +1,60 @@
+{% set parentInfo = null %}
+{% if 0 < eleventyNavigation.parent | length %}
+  {% for item in collections.all | eleventyNavigation %}
+    {% if eleventyNavigation.parent === item.key %}
+      {% set parentInfo = item %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% extends "layouts/base.njk" %}
+
+{% block contentMain %}
+
+  <article id="main-text" class="container">
+    <div class="colums">
+      <section class="column is-10 is-offset-1">
+        <div class="content">
+          <h2 class="h2-">{{ title | safe }}</h2>
+          <hr class="hr" />
+          <p class="meta-info">
+{% if 0 < eleventyNavigation.parent | length %}
+            <a href="{{ parentInfo.url }}">{{ parentInfo.title }}</a><br />
+{% endif %}
+            Created: {{ date | readableDate }}<br />
+            Modified: {{ updated | readableDate }}
+          </p>
+{{ content | safe }}
+        </div>
+      </section>
+    </div>
+  </article>
+
+{% if 0 < eleventyNavigation.parent | length %}
+  <article id="contents-list" class="container">
+    <div class="colums">
+      <section class="column is-10 is-offset-1">
+        <div class="content">
+          <h2>Contents...</h2>
+          <hr />
+          <ul>
+  {% for item in collections.all | eleventyNavigation(eleventyNavigation.parent) %}
+            <li>
+    {% if item.url === page.url %}
+              <strong>{{ item.title }}</strong>
+    {% else %}
+              <a href="{{ item.url }}">{{ item.title }}</a>
+    {% endif %}
+            </li>
+  {% endfor %}
+          </ul>
+          <p>
+            From... <a href="{{ parentInfo.url }}">{{ parentInfo.title }}</a>
+          </p>
+{% endif %}
+        </div>
+      </section>
+    </div>
+  </article>
+
+{% endblock %}

@@ -1,0 +1,27 @@
+@charset "utf-8"
+@use "sass:math"
+
+@import './variable'
+
+header
+  background: linear-gradient($hexa-brown-dark, $hexa-brown-light)
+
+  a
+    @include ancher-decolation($hexa-brown-dark, $hexa-red, false)
+
+  h1.title
+    margin-bottom: 0 !important
+    padding-bottom: 0 !important
+    font-size: 1.6rem
+    font-weight: bold
+
+  hr
+    @include hr-linear-gradient(0, math.div($base-margin, 2), transparent, $hexa-red)
+
+  figure
+    margin: 0 0 0 auto
+    margin-bottom: math.div($base-margin, 2) !important
+
+  p.more-info
+    font-size: 0.9rem
+    line-height: 1.2

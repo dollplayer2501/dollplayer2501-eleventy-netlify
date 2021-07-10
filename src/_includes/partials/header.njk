@@ -1,0 +1,13 @@
+<header class="hero is-medium">
+  <div class="hero-body">
+    <div class="container has-text-right">
+      <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+      <hr />
+      <figure class="image is-64x64"><a href="{{ site.author.url }}"><img class="is-rounded" src="{{ site.author.avator }}"></a></figure>
+      <p class="more-info">
+        <a href="{{ site.author.url }}">{{ site.author.name }}</a> | {{ site.author.organization }}<br />
+        {{ site.description | safe }}
+      </p>
+    </div>
+  </div>
+</header>

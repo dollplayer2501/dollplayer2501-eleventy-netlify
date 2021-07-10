@@ -1,0 +1,44 @@
+@charset "utf-8"
+@import './variable'
+
+
+body#home
+  article.container
+
+    h2
+      margin-bottom: 0
+      padding-bottom: 0
+      font-size: 1.4rem
+      color: $hexa-brown-dark
+
+    hr
+      @include hr-linear-gradient(0, $base-margin, $hexa-red, transparent)
+
+    &#contents-list
+
+      ul li a
+        @include ancher-decolation($hexa-brown-dark, $hexa-red, false)
+
+    &#introduction
+      margin-bottom: $base-margin * 3
+      padding-bottom: 0
+
+    &#history
+
+      section.column
+        margin-bottom: $base-margin * 3
+
+        h3
+          margin-bottom: 0
+          padding-bottom: 0
+          font-size: 1.2rem
+          color: $hexa-brown-dark
+
+        hr
+          margin-top: 0
+          padding-top: 0
+          margin-bottom: 0
+          padding-bottom: 0
+
+        p.description
+          font-size: 0.9rem

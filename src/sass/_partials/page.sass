@@ -1,0 +1,17 @@
+@charset "utf-8"
+@import './variable'
+
+body#page
+  article.container
+
+    h3, h4
+      margin-bottom: $base-margin
+
+    &#contents-list
+
+      ul li a
+        @include ancher-decolation($hexa-brown-dark, $hexa-red, false)
+
+      p a
+        @include ancher-decolation($hexa-brown-dark, $hexa-red, false)
+        font-weight: bold
