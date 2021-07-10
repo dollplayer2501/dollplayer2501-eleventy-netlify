@@ -1,6 +1,6 @@
 # Something like a "blog" but not a "blog"
 
-I built this based on Eleventy, not to mass produce articles on blogs, but to mass produce articles on a "topic".
+I built this based on [Eleventy][Eleventy-url], not to mass produce articles on blogs, but to mass produce articles on a "topic".
 
 ブログで記事を量産するため、ではなく、ある「トピック/テーマ」について記事を量産するために、私は[Eleventy][Eleventy-url]をベースにこれを構築しました。
 
@@ -36,9 +36,9 @@ I built this based on Eleventy, not to mass produce articles on blogs, but to ma
 
 Below, implementation and operation check are insufficient.
 
-* Handle images via Eleventy, now Gulp
-* Table Of Contents of Markdown
-* Footnotes of Markdown
+* Handling images via [eleventy-img](https://github.com/11ty/eleventy-img), now Gulp
+* Table Of Contents of [markdown-it-table-of-contents](https://www.npmjs.com/package/markdown-it-table-of-contents) with [markdown-it-anchor](https://www.npmjs.com/package/markdown-it-anchor)
+* Footnotes of [markdown-it-footnote](https://www.npmjs.com/package/markdown-it-footnote)
 * Recheck meta information
 
 
