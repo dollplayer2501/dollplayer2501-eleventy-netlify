@@ -7,6 +7,42 @@ body#page
     h3, h4
       margin-bottom: $base-margin
 
+    .table-of-contents
+      margin-top: $base-margin * 5
+      margin-bottom: $base-margin * 5
+
+      .toc-container-header
+        margin-top: 0
+        padding-top: 0
+        margin-bottom: 0
+        padding-bottom: 0
+
+        h3
+          margin-top: 0
+          padding-top: 0
+          margin-bottom: 0
+          padding-bottom: 0
+          font-size: 1.0rem
+          font-weight: bold
+
+        hr
+          margin-top: 0
+          padding-top: 0
+          margin-bottom: $base-margin
+          padding-bottom: 0
+
+      ul
+        margin-top: 0
+        padding-top: 0
+        margin-bottom: 0
+        padding-bottom: 0
+
+        li
+          line-height: 1.2
+
+          a
+            @include ancher-decolation($hexa-brown-dark, $hexa-red, false)
+
     &#contents-list
 
       ol li a

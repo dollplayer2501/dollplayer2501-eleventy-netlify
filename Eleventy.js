@@ -10,7 +10,7 @@ const markdownIt = require('markdown-it');
 const markdownItFootnote = require('markdown-it-footnote');
 const markdownItDeflist = require('markdown-it-deflist');
 const markdownItTableOfContents = require('markdown-it-table-of-contents');
-
+const markdownItAnchor = require('markdown-it-anchor');
 //
 const htmlMinTransform = require('./tasks/eleventy_html-minifier.js');
 //
@@ -51,13 +51,20 @@ module.exports = function (eleventyConfig) {
   };
   //
   let markdownItTableOfContents_options = {
-    includeLevel: [3, 4, 5]
+    includeLevel: [3, 4, 5],
+    containerClass: 'table-of-contents',
+    markerPattern: /^\[\[toc\]\]/im,
+    listType: 'ul',
+    containerHeaderHtml:
+      '<div class="toc-container-header"><h3>Table of contents</h3><hr /></div>',
+    containerFooterHtml: ''
   };
   //
   let markdownLib = markdownIt(markdownIt_options)
     .use(markdownItFootnote, markdownItFootnote_options)
     .use(markdownItDeflist)
-    .use(markdownItTableOfContents, markdownItTableOfContents_options);
+    .use(markdownItTableOfContents, markdownItTableOfContents_options)
+    .use(markdownItAnchor);
   //
   markdownLib.renderer.rules.footnote_block_open = () =>
     '<section class="footnotes">\n' + '<h3>Footnotes...</h3>\n' + '<hr />\n' + '<ol>\n';

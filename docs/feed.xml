@@ -4,7 +4,7 @@
   <subtitle>A feed of the latest posts from our blog.</subtitle>
   <link href="https://dollplayer2501.github.io/feed.xml" rel="self"/>
   <link href="https://dollplayer2501.github.io/"/>
-  <updated>2021-07-10T10:51:53Z</updated>
+  <updated>2021-07-11T16:28:29Z</updated>
   <id>https://dollplayer2501.github.io</id>
   <author>
     <name>Morry Masahiko</name>
@@ -381,11 +381,11 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
     <content type="html"><![CDATA[
 <p>以上までが「過去」になり、これ以降はリアルタイムで更新…していけるといいなぁ、です。<br>
 つまりそれは、今回のプラットフォームとして選択した<a href="https://www.11ty.dev/">Eleventy</a>の常用運用フェーズに入った、という事になります…というのは、まぁどうでもいい事ですが。</p>
-<h3>せっかくなので、ふと、ふいにアタマをよぎる曲を何曲か</h3>
+<h3 id="%E3%81%9B%E3%81%A3%E3%81%8B%E3%81%8F%E3%81%AA%E3%81%AE%E3%81%A7%E3%80%81%E3%81%B5%E3%81%A8%E3%80%81%E3%81%B5%E3%81%84%E3%81%AB%E3%82%A2%E3%82%BF%E3%83%9E%E3%82%92%E3%82%88%E3%81%8E%E3%82%8B%E6%9B%B2%E3%82%92%E4%BD%95%E6%9B%B2%E3%81%8B" tabindex="-1">せっかくなので、ふと、ふいにアタマをよぎる曲を何曲か</h3>
 <p>いや何となく。<br>
 みんなそういうの、ありませんかね？<br>
 アタシの中で麻薬物質みたくとめどなく排出されゆくのでして、結構長くリフレインしてますね。</p>
-<h4>80's洋楽</h4>
+<h4 id="80's%E6%B4%8B%E6%A5%BD" tabindex="-1">80's洋楽</h4>
 <p>当時そこまで…アルバムを入手してまで聞いた曲ではないのですがね…</p>
 <iframe width="480" height="270" class="mb-4"
 src="https://www.youtube.com/embed/6e4WLdLNajs"
@@ -395,7 +395,7 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
 src="https://www.youtube.com/embed/p3j2NYZ8FKs"
 title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen>
 </iframe>
-<h4>Captain Funk - Style Stage 8 Bustin' Out 74 Minutes Mix</h4>
+<h4 id="captain-funk---style-stage-8-bustin'-out-74-minutes-mix" tabindex="-1">Captain Funk - Style Stage 8 Bustin' Out 74 Minutes Mix</h4>
 <p>以下、そのアルバム…と言うべきか、で使われている曲になります。（このアルバム自体、YouTubeに存在して問題無くリンクできるか微妙なので）<br>
 でまぁ思ったのは、「盛り上がるトコロ使ってんだー」で、曲単体として聞くと「結構薄い？」と感じました、感じてしまいました。</p>
 <p>参考までに、このアルバムで使われている収録曲一覧は下記URL。<br>
@@ -464,7 +464,7 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
     <id>https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_02.html</id>
     <content type="html"><![CDATA[
 <p>ここでは11ty/Eleventy <em>以外</em> の技術に関して、以下、戯言を。</p>
-<h3>Bulma CSS Framework</h3>
+<h3 id="bulma-css-framework" tabindex="-1">Bulma CSS Framework</h3>
 <ul>
 <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
 <li><a href="https://materializecss.com/">MaterializeCSS</a></li>
@@ -489,7 +489,7 @@ Bulmaの場合だと、Webpackでの利用方法ではありますが、<a href=
 <p>および、恥ずかしながら自分、コンポーネントを独自で実装できないのですよね…<br>
 ヘッダを全面画像、かつ、カルーセルにする、トップ固定のナビゲーションなどの実装を。<br>
 起点は有料・無料のテンプレートありきで、そのため、Bourbonを核とするプロダクト群やHTML5 UP、CobyHouseなどは結構、有用かなと思っています…が、前者2つは現在、開発が止まっているな、という印象です。</p>
-<h3>Nunjucks</h3>
+<h3 id="nunjucks" tabindex="-1">Nunjucks</h3>
 <p>個人的には、タブやスペースのインデントで管理しなければならないというデメリット…なのかな、それもありますが、記述量が格段に少ない<a href="https://pugjs.org/">Jade/Pug</a>が好きですね。<br>
 11ty/EleventyでもPugを扱えますが、<a href="https://mozilla.github.io/nunjucks/">Nunjucks</a>とPugでは扱える機能に差があるので、初見ですがNunjucksを選択しました。</p>
 <ul>
@@ -499,7 +499,7 @@ Bulmaの場合だと、Webpackでの利用方法ではありますが、<a href=
 <p>もしもPugがNunjucksと同程度の機能を提供していたら当然使っていたと思いますし、Bulma CSSではなくTailwind CSSを選択していただろうな、と思います。</p>
 <p>ちなみにPHPでは<a href="https://twig.symfony.com/">Twig</a>一択でした、です。<br>
 このため、Pugでデザインしても結局は素のHTMLにしないと使えない訳で、一方で<a href="https://phug.selfbuild.fr/">Phug</a>や<a href="https://github.com/pug-php/pug">pug-php/pug</a>も存在するらしいのですが、まだ試用すらしていない段階です。</p>
-<h3>Laravel Mix …の採用は現在、見送ってます</h3>
+<h3 id="laravel-mix-%E2%80%A6%E3%81%AE%E6%8E%A1%E7%94%A8%E3%81%AF%E7%8F%BE%E5%9C%A8%E3%80%81%E8%A6%8B%E9%80%81%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99" tabindex="-1">Laravel Mix …の採用は現在、見送ってます</h3>
 <p>現在リリースしているこのバージョンは、<a href="https://piccalil.li/course/learn-eleventy-from-scratch/">Learn Eleventy From Scratch - Piccalilli</a>を参考にしたためで、それ以前、ゼロベースでLaravel Mixから構築していました。<br>
 どこかの段階で切り替えたいとは思ってはいますが。</p>
 <p>正直なトコロ、<a href="https://webpack.js.org/">Webpack</a>ですら、よく分かってない、というのが本音です。<br>
@@ -518,7 +518,7 @@ Bulmaの場合だと、Webpackでの利用方法ではありますが、<a href=
 個人的な結論を言えば、「連動させていない」かなと思います。<br>
 なのでもしも連動させているとすれば、<code>package.json</code>の<code>scripts</code>で起動をコントロールしているという印象です…が、<code>npm run</code>って今まで避けてきた課題でしたので、これを機会に本腰を入れて、になりました。<br>
 それと例えば<a href="https://www.browsersync.io/">Browsersync</a>やSass/SCSSは、WebpackやLaravel Mixでも11ty/Eleventyでも管理できるので、どの機能はどちらで管理するのか、といった切り分けは必要かもしれません…が、今は何となくの雰囲気で何とかなってるヨシ！といった状況ですね。</p>
-<h3>じゃぁGulpは今後使わないの？</h3>
+<h3 id="%E3%81%98%E3%82%83%E3%81%81gulp%E3%81%AF%E4%BB%8A%E5%BE%8C%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%E3%81%AE%EF%BC%9F" tabindex="-1">じゃぁGulpは今後使わないの？</h3>
 <p>いやそれはないと思いますよ。<br>
 チーム開発は別に、私自身に限っては、ですが。<br>
 おそらくですが、今後も半分趣味でもあるHTMLテンプレート漁りはすると思います。<br>
@@ -537,7 +537,8 @@ Bulmaの場合だと、Webpackでの利用方法ではありますが、<a href=
     <id>https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_03.html</id>
     <content type="html"><![CDATA[
 <p>さて、ようやく本題？</p>
-<h3>11ty/Eleventy</h3>
+<p><div class="table-of-contents"><div class="toc-container-header"><h3>Table of contents</h3><hr /></div><ul><li><a href="#11ty%2Feleventy">11ty/Eleventy</a></li><li><a href="#%E5%95%8F%E9%A1%8C%E3%81%AF%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%9F">問題はその先に存在した</a></li><li><a href="#morry%E3%82%BB%E3%83%B3%E3%82%BB%E3%81%AE%E6%AC%A1%E5%9B%9E%E4%BD%9C%E3%81%AB%E3%81%94%E6%9C%9F%E5%BE%85%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84">Morryセンセの次回作にご期待ください</a></li></ul></div></p>
+<h3 id="11ty%2Feleventy" tabindex="-1">11ty/Eleventy</h3>
 <p>例えば<a href="https://jamstack.org/generators/">Jamstack.org</a>を一覧すればお分かりの通り、JavaScriptベースの静的サイト生成ツールは様々あります。<br>
 JavaScriptベースに限らず有名ドコロだと、何となくの印象的なトレンドで、<a href="https://jekyllrb.com/">Jekyll</a>から始まり、<a href="https://hexo.io/">Hexo</a>や<a href="https://gohugo.io/">Hugo</a>の時代が来て、今は<a href="https://www.gatsbyjs.com/">Gatsby</a>や<a href="https://nextjs.org/">Next.js</a>が熱いぜ、みたいな？</p>
 <p>あくまで個人的な印象ですが、日本語情報が豊富に入手できるGatsbyやNext.jsではなく、何故に<a href="https://www.11ty.dev/">11ty/Eleventy</a>にしたのか、ですが、「個人的に、とっつきやすかった」になります。<br>
@@ -549,7 +550,7 @@ JavaScriptベースに限らず有名ドコロだと、何となくの印象的�
 だからと言って11ty/Eleventyはそういうロートル向けかとか、そういう<ruby>議論を吹っかけるの<rt>マサカリ</rt></ruby>は、やめて下さい…既に自分は死に体ですので、完全に無意味な行為です…</p>
 <p>および、コレを書いている初稿の時点では実装していませんが、「<a href="https://qiita.com/yuki0410_/items/712cd998c3df55ba58c8">11ty/eleventy×microCMSを使ったJamstackなサイトの作り方 - Qiita</a>」とありますので、Jamstackを実装できるなら何でもいいや、非同期処理やキャッシュも使えるし、それよりも個別に管理画面を実装するの、面倒だしなぁ、というやや投げやりな理由もあります。</p>
 <p>また、PHPベースの静的サイト生成も可能ではありますが、Sass/SCSSなども同時に触る必要があるため、だったら、Node.jsで統一した方がいいんじゃないかな、とも思いましたので、採用を見送りました。</p>
-<h3>問題はその先に存在した</h3>
+<h3 id="%E5%95%8F%E9%A1%8C%E3%81%AF%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%9F" tabindex="-1">問題はその先に存在した</h3>
 <p>でまぁ。<br>
 具体的に使うとなると、どういったアプローチをするのがいいのだろうか？です。<br>
 逆に言うと、GatsbyやNext.jsは、このアプローチ、具体的には、スタータキット・テンプレートなどが最初にありきでつまづいてしまったのかな、自分の場合、と思いますが…正直、分からないですね…<br>
@@ -580,7 +581,7 @@ JavaScriptベースに限らず有名ドコロだと、何となくの印象的�
 <p>それともう一つ、技術マターではなく、作業の進め方として、完璧を目指さず、抱え込まず、さっさと全世界に公開して、徐々に完成度を高めていこうではないか、最低限のレベルは存在するにしても、という。<br>
 今更ながらですが、Git/GitHubを使い始めたので、この様な段階的なアプローチに適した環境/ツールではないかと思います。<br>
 また、今回からはデータ…駄文がテキストファイルとして完全に手元に残りますので、行き詰まったらその時、諦めて次を漁ろう、といったスタンスでもあります。</p>
-<h3>Morryセンセの次回作にご期待ください</h3>
+<h3 id="morry%E3%82%BB%E3%83%B3%E3%82%BB%E3%81%AE%E6%AC%A1%E5%9B%9E%E4%BD%9C%E3%81%AB%E3%81%94%E6%9C%9F%E5%BE%85%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84" tabindex="-1">Morryセンセの次回作にご期待ください</h3>
 <p>ですかねぇ…<br>
 現時点で文章を打ちながら、「この機能が無い、どうやって実装するのだろ」で、調べて簡単そうだと実装するし、そうでないなら後日後回し、ともかく早くリリースせにゃならんし…というのが本音です。</p>
 <p>例えばこのページの下、これら一連の投稿一覧がありますが、「このページをActiveにしてるの、変だろ、Breadcrumbも無いし、この一連のページトップ、どこ？ww」<br>
@@ -621,7 +622,7 @@ JavaScriptベースに限らず有名ドコロだと、何となくの印象的�
     <updated>2021-07-06T05:39:48Z</updated>
     <id>https://dollplayer2501.github.io/</id>
     <content type="html"><![CDATA[
-<h2>Who am I...</h2>
+<h2 id="who-am-i..." tabindex="-1">Who am I...</h2>
 <hr>
 <p>唐突な自分語りは如何なものか…<br>
 しかも無駄に長い…</p>
