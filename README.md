@@ -37,7 +37,7 @@ I built this based on [Eleventy][Eleventy-url], not to mass produce articles on 
 Below, implementation and operation check are insufficient.
 
 * Handling images via [eleventy-img](https://github.com/11ty/eleventy-img), now Gulp
-* Table Of Contents of [markdown-it-table-of-contents](https://www.npmjs.com/package/markdown-it-table-of-contents) with [markdown-it-anchor](https://www.npmjs.com/package/markdown-it-anchor)
+* ~~Table Of Contents of [markdown-it-table-of-contents](https://www.npmjs.com/package/markdown-it-table-of-contents) with [markdown-it-anchor](https://www.npmjs.com/package/markdown-it-anchor)~~
 * Footnotes of [markdown-it-footnote](https://www.npmjs.com/package/markdown-it-footnote)
 * Recheck meta information
 
