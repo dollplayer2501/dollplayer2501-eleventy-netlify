@@ -11,10 +11,3 @@ cssBodyId: home
 tags:
   - rss
 ---
-
-## Who am I...
-
-- - -
-
-{{ metaDesc | safe }}  
-しかも無駄に長い…

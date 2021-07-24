@@ -4,7 +4,7 @@
   <subtitle>A feed of the latest posts from our blog.</subtitle>
   <link href="https://dollplayer2501.github.io/feed.xml" rel="self"/>
   <link href="https://dollplayer2501.github.io/"/>
-  <updated>2021-07-18T00:38:30Z</updated>
+  <updated>2021-07-24T18:13:40Z</updated>
   <id>https://dollplayer2501.github.io</id>
   <author>
     <name>Morry Masahiko</name>
@@ -622,10 +622,6 @@ JavaScriptベースに限らず有名ドコロだと、何となくの印象的�
     <updated>2021-07-06T05:39:48Z</updated>
     <id>https://dollplayer2501.github.io/</id>
     <content type="html"><![CDATA[
-<h2 id="who-am-i..." tabindex="-1">Who am I...</h2>
-<hr>
-<p>唐突な自分語りは如何なものか…<br>
-しかも無駄に長い…</p>
 
     ]]></content>
   </entry>

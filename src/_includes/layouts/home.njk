@@ -30,26 +30,4 @@
     </div>
   </article>
 
-  <article id="history" class="container">
-{% for item in collections.homeSections %}
-  {% set tmp = loop.index % 4 %}
-  {% set offset = 0 %}
-  {% if tmp == 0 %}{% set offset = 1 %}
-  {% elif tmp == 1 %}{% set offset = 2 %}
-  {% elif tmp == 2 %}{% set offset = 1 %}
-  {% else %}{% set offset = 0 %}
-  {% endif %}
-    <div class="colums">
-      <section class="column is-10 is-offset-{{offset}}">
-        <div class="content">
-          <h3>{{ item.data.title | safe }}</h3>
-          <hr />
-          <p class="description">{{ item.data.description | safe }}</p>
-{{ item.templateContent | safe }}
-        </div>
-      </section>
-    </div>
-{% endfor %}
-  </article>
-
 {% endblock %}

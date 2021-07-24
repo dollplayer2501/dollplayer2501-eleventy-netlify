@@ -4,7 +4,7 @@ const sassProcessor = require('gulp-sass');
 sassProcessor.compiler = require('sass');
 
 const isProduction = process.env.NODE_ENV === 'production';
-const criticalStyles = ['critical.sass'];
+const criticalStyles = ['critical.sass', 'who_am_i.sass'];
 
 const calculateOutput = ({history}) => {
   let response = './docs/css';

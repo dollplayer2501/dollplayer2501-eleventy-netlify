@@ -1,0 +1,63 @@
+---
+title: わたしはだぁれ？ feat. impress.js (for desktop pc)
+eleventyNavigation:
+  key: Who am I
+  title: わたしはだぁれ？ feat. impress.js (for desktop pc)
+  order: 4
+permalink: /who_am_i.html
+metaDesc: 唐突な自分語りは如何なものか…
+layout:
+cssBodyId:
+tags:
+---
+<!doctype html>
+<html lang="{{ site.language }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+{% include "partials/meta-info.njk" %}
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+    <style>{% include "css/who_am_i.css" %}</style>
+  </head>
+  <body class="impress-not-supported" style="height:100%;overflow:hidden;">
+
+    <div class="fallback-message">
+      <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+      <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+    </div>
+
+    <div id="impress" data-transition-duration="1000">
+
+{% set layouts = [
+  { data_x: -500,  data_y: 1300, data_z: 800,  data_scale: 1, data_rotate: 0   },
+  { data_x: 0,     data_y: 0,    data_z: 300,  data_scale: 3, data_rotate: 0   },
+  { data_x: 500 ,  data_y: 800,  data_z: -400, data_scale: 3, data_rotate: 0   },
+  { data_x: 2000,  data_y: 2200, data_z: 200,  data_scale: 3, data_rotate: 0   },
+  { data_x: 500,   data_y: 3800, data_z: 600,  data_scale: 3, data_rotate: 0   },
+  { data_x: 2500,  data_y: -300, data_z: -300, data_scale: 2, data_rotate: 90  },
+  { data_x: -1000, data_y: 2000, data_z: -700, data_scale: 1, data_rotate: 270 }
+]
+%}
+{% for item in collections.homeSections %}
+      <div class="step" data-scale="{{ layouts[loop.index0].data_scale }}" data-x="{{ layouts[loop.index0].data_x }}" data-y="{{ layouts[loop.index0].data_y }}" data-z="{{ layouts[loop.index0].data_z }}" data-rotate="{{ layouts[loop.index0].data_rotate }}">
+          <h3><small>{{eleventyNavigation.key}} - {{ loop.index }}/{{ loop.length }}</small> {{ item.data.title | safe }}</h3>
+          <hr />
+          <p class="description">{{ item.data.description | safe }}</p>
+{{ item.templateContent | safe }}
+          <p class="goto-home"><a href="/">goto Welcome!/Home</a></p>
+      </div>
+{% endfor %}
+
+      <div id="overview" class="step" data-x="1000" data-y="2000" data-scale="9" style="pointer-events:none;"></div>
+    </div>
+
+    <div id="impress-toolbar"></div>
+    <div class="impress-progressbar"><div></div></div>
+    <div class="impress-progress"></div>
+    <div id="impress-help"></div>
+
+    <script src="https://impress.js.org/js/impress.js"></script>
+    <script>impress().init();</script>
+  </body>
+</html>
