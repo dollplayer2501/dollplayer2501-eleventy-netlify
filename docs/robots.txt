@@ -1,4 +1,4 @@
-Sitemap: https://dollplayer2501.github.io/sitemap.xml
+Sitemap: https://dollplayer2501.netlify.app/sitemap.xml
 
 User-agent: *
 Disallow:

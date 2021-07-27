@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>unlimited text works, the 4th. posts</title>
   <subtitle>A feed of the latest posts from our blog.</subtitle>
-  <link href="https://dollplayer2501.github.io/feed.xml" rel="self"/>
-  <link href="https://dollplayer2501.github.io/"/>
-  <updated>2021-07-27T06:04:13Z</updated>
-  <id>https://dollplayer2501.github.io</id>
+  <link href="https://dollplayer2501.netlify.app/feed.xml" rel="self"/>
+  <link href="https://dollplayer2501.netlify.app/"/>
+  <updated>2021-07-27T06:20:48Z</updated>
+  <id>https://dollplayer2501.netlify.app</id>
   <author>
     <name>Morry Masahiko</name>
     <email></email>
@@ -14,9 +14,9 @@
   
   <entry>
     <title>聴いていた曲を羅列してみる</title>
-    <link href="https://dollplayer2501.github.io/musique_non_stop.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop.html"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.github.io/musique_non_stop.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop.html</id>
     <content type="html"><![CDATA[
 <p>Twitterの「固定されたツイート」に何をピン留めするか、あるいは、しないかは好みが分かれると思います。<br>
 自分の場合、そもそも世間様に向かってアピールできる程の「何か」を持ち合わせていないので、以前はそれをしていませんでした。</p>
@@ -36,9 +36,9 @@
   
   <entry>
     <title>DJ Shadow - Midnight In A Perfect World</title>
-    <link href="https://dollplayer2501.github.io/musique_non_stop_01.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop_01.html"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.github.io/musique_non_stop_01.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop_01.html</id>
     <content type="html"><![CDATA[
 <p>記念すべき一発目は、やはりどうしても想いが…</p>
 <iframe width="480" height="270" class="mb-4"
@@ -84,9 +84,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>Ott - Splitting An Atom</title>
-    <link href="https://dollplayer2501.github.io/musique_non_stop_02.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop_02.html"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.github.io/musique_non_stop_02.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop_02.html</id>
     <content type="html"><![CDATA[
 <iframe width="480" height="270" class="mb-4"
 src="https://www.youtube.com/embed/YX5SJtZ5xPE"
@@ -142,9 +142,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>ddh aka 4つ鬱P - Midnight Coke</title>
-    <link href="https://dollplayer2501.github.io/musique_non_stop_03.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop_03.html"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.github.io/musique_non_stop_03.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop_03.html</id>
     <content type="html"><![CDATA[
 <iframe width="380" height="160"
 src="https://ext.nicovideo.jp/thumb/sm11334765"
@@ -222,9 +222,9 @@ scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
   
   <entry>
     <title>Handkanten Akt from Vier Minuten</title>
-    <link href="https://dollplayer2501.github.io/musique_non_stop_04.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop_04.html"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.github.io/musique_non_stop_04.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop_04.html</id>
     <content type="html"><![CDATA[
 <iframe width="480" height="270" class="mb-4"
 src="https://www.youtube.com/embed/8acN81mRueY"
@@ -244,9 +244,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>Tori Amos - Precious Things</title>
-    <link href="https://dollplayer2501.github.io/musique_non_stop_05.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop_05.html"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.github.io/musique_non_stop_05.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop_05.html</id>
     <content type="html"><![CDATA[
 <iframe width="480" height="270" class="mb-4"
 src="https://www.youtube.com/embed/2CdWEHjaL30?start=797"
@@ -290,9 +290,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>DJonemesis &amp; Lilly - From Eldorado To The Pleiades</title>
-    <link href="https://dollplayer2501.github.io/musique_non_stop_06.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop_06.html"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.github.io/musique_non_stop_06.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop_06.html</id>
     <content type="html"><![CDATA[
 <iframe width="480" height="270" class="mb-4"
 src="https://www.youtube.com/embed/jOQLjYkEhoM"
@@ -324,9 +324,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>Cherry (UA) - Aiza (Original Mix)</title>
-    <link href="https://dollplayer2501.github.io/musique_non_stop_07.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop_07.html"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.github.io/musique_non_stop_07.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop_07.html</id>
     <content type="html"><![CDATA[
 <iframe width="480" height="270" class="mb-4"
 src="https://www.youtube.com/embed/lZhYoVG7F2k"
@@ -375,9 +375,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>閑話休題 No.1 - ふと、ふいにアタマをよぎる曲</title>
-    <link href="https://dollplayer2501.github.io/musique_non_stop_08.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop_08.html"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.github.io/musique_non_stop_08.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop_08.html</id>
     <content type="html"><![CDATA[
 <p>以上までが「過去」になり、これ以降はリアルタイムで更新…していけるといいなぁ、です。<br>
 つまりそれは、今回のプラットフォームとして選択した<a href="https://www.11ty.dev/">Eleventy</a>の常用運用フェーズに入った、という事になります…というのは、まぁどうでもいい事ですが。</p>
@@ -425,9 +425,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>それ以前の状況について私が知っている二、三の事柄</title>
-    <link href="https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_01.html"/>
+    <link href="https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site_01.html"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_01.html</id>
+    <id>https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site_01.html</id>
     <content type="html"><![CDATA[
 <p>一応、簡単にこれまでの経緯を説明しますと、時は21世紀初初頭にまで遡りまして、ざっくり…</p>
 <ol>
@@ -459,9 +459,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>ベースとなる技術ついて私が知っている二、三の事柄</title>
-    <link href="https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_02.html"/>
+    <link href="https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site_02.html"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_02.html</id>
+    <id>https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site_02.html</id>
     <content type="html"><![CDATA[
 <p>ここでは11ty/Eleventy <em>以外</em> の技術に関して、以下、戯言を。</p>
 <h3 id="bulma-css-framework" tabindex="-1">Bulma CSS Framework</h3>
@@ -532,9 +532,9 @@ Bulmaの場合だと、Webpackでの利用方法ではありますが、<a href=
   
   <entry>
     <title>基礎習得後の苦難ついて私が知っている二、三の事柄</title>
-    <link href="https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_03.html"/>
+    <link href="https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site_03.html"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site_03.html</id>
+    <id>https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site_03.html</id>
     <content type="html"><![CDATA[
 <p>さて、ようやく本題？</p>
 <p><div class="table-of-contents"><div class="toc-container-header"><h3>Table of contents</h3><hr /></div><ul><li><a href="#11ty%2Feleventy">11ty/Eleventy</a></li><li><a href="#%E5%95%8F%E9%A1%8C%E3%81%AF%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%9F">問題はその先に存在した</a></li><li><a href="#morry%E3%82%BB%E3%83%B3%E3%82%BB%E3%81%AE%E6%AC%A1%E5%9B%9E%E4%BD%9C%E3%81%AB%E3%81%94%E6%9C%9F%E5%BE%85%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84">Morryセンセの次回作にご期待ください</a></li></ul></div></p>
@@ -599,9 +599,9 @@ JavaScriptベースに限らず有名ドコロだと、何となくの印象的�
   
   <entry>
     <title>このサイトの構築について私が知っている二、三の事柄</title>
-    <link href="https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site.html"/>
+    <link href="https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site.html"/>
     <updated>2021-07-04T00:00:00Z</updated>
-    <id>https://dollplayer2501.github.io/two_or_three_things_I_Know_about_this_site.html</id>
+    <id>https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site.html</id>
     <content type="html"><![CDATA[
 <p>いや、その映画…監督含めて、タイトルは知ってはいますが、観た事無いです…ああ、ムーンライダーズの楽曲も聞いた事無いなぁ…<br>
 …はともかく、もしも真面目に<a href="https://www.11ty.dev/">11ty/Eleventy</a>の情報を、の方々には非常に申し訳ないですが、ここに的確で有用な情報は無いと思います。<br>
@@ -618,9 +618,9 @@ JavaScriptベースに限らず有名ドコロだと、何となくの印象的�
   
   <entry>
     <title>Welcome!</title>
-    <link href="https://dollplayer2501.github.io/"/>
+    <link href="https://dollplayer2501.netlify.app/"/>
     <updated>2021-07-06T05:39:48Z</updated>
-    <id>https://dollplayer2501.github.io/</id>
+    <id>https://dollplayer2501.netlify.app/</id>
     <content type="html"><![CDATA[
 <h2 id="i-am-the-bone-of-my-text." tabindex="-1">I am the bone of my text.</h2>
 <hr>
