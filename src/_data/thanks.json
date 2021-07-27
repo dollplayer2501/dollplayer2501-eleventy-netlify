@@ -20,9 +20,14 @@
     "url": "https://mozilla.github.io/nunjucks/"
   },
   {
-    "name": "GitHub Pages",
+    "name": "GitHub",
+    "description": "This URL is my repository",
+    "url": "https://github.com/dollplayer2501/dollplayer2501-eleventy-netlify"
+  },
+  {
+    "name": "Netlify",
     "description": "",
-    "url": "https://pages.github.com/"
+    "url": "https://www.netlify.com/"
   },
   {
     "name": "Learn Eleventy From Scratch",

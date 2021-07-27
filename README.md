@@ -7,7 +7,7 @@ I built this based on [Eleventy][Eleventy-url], not to mass produce articles on 
 
 ## Demo site
 
-"[unlimited text works, the 4th.](https://dollplayer2501.github.io/)" on GitHub Pages
+"[unlimited text works, the 4th.](https://dollplayer2501.netlify.app/)" on Netlify.
 
 
 ## Features

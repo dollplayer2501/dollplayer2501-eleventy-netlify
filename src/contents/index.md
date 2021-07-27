@@ -11,3 +11,9 @@ cssBodyId: home
 tags:
   - rss
 ---
+
+## I am the bone of my text.
+
+- - -
+
+とか何とか、そんな立派なものじゃない…
