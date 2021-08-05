@@ -1,7 +1,16 @@
 const {dest, src} = require('gulp');
 const imagemin = require('gulp-imagemin');
 
+const isProduction = process.env.NODE_ENV === 'production';
+
 const images = function (cb) {
+  let dest_path = '';
+  if (isProduction) {
+    dest_path = './docs/assets/images';
+  } else {
+    dest_path = './_site/assets/images';
+  }
+
   return src('./src/assets/images/**/*')
     .pipe(
       imagemin(
@@ -14,7 +23,7 @@ const images = function (cb) {
         }
       )
     )
-    .pipe(dest('./docs/assets/images'))
+    .pipe(dest(dest_path))
     .on('done', cb);
 };
 

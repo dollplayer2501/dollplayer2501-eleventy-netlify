@@ -90,10 +90,16 @@ module.exports = function (eleventyConfig) {
   });
 
   //
+  let path_404 = '';
+  if (isProduction) {
+    path_404 = 'docs/404.html';
+  } else {
+    path_404 = '_site/404.html';
+  }
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function (err, browserSync) {
-        const content_404 = fs.readFileSync('docs/404.html');
+        const content_404 = fs.readFileSync(path_404);
         browserSync.addMiddleware('*', (req, res) => {
           res.writeHead(404, {'Content-Type': 'text/html; charset=UTF-8'});
           res.write(content_404);
@@ -112,7 +118,7 @@ module.exports = function (eleventyConfig) {
     htmlTemplateEngine: 'njk',
     dir: {
       input: 'src',
-      output: 'docs'
+      output: '_site'
     }
   };
 };

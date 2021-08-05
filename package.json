@@ -6,8 +6,9 @@
   "scripts": {
     "start": "npx gulp && concurrently 'npx gulp watch' 'npx eleventy --config=Eleventy.js --serve --quiet'",
     "build": "rm -rf ./docs && npx gulp && concurrently 'npx eleventy --config=Eleventy.js --quiet'",
-    "production": "NODE_ENV=production npx gulp && NODE_ENV=production eleventy --config=Eleventy.js",
-    "dry": "NODE_ENV=production eleventy --dryrun --config=Eleventy.js "
+    "production": "NODE_ENV=production npx gulp && NODE_ENV=production eleventy --config=Eleventy.js  --output=docs",
+    "dry": "NODE_ENV=production eleventy --dryrun --config=Eleventy.js",
+    "serve": "cd docs && npx serve"
   },
   "keywords": [],
   "author": "",

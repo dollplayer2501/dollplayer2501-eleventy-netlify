@@ -28,8 +28,10 @@ I built this based on [Eleventy][Eleventy-url], not to mass produce articles on 
 
 1. Run `nvm use`
 1. Run `npm install`
-1. Run `npm run start` to run locally
-1. Run `npm run production` to do a prod build
+1. Run `npm run start` to run locally, `./_site`
+1. Run `npm run production` to do a prod build, `./docs`
+
+Normally, 11ty specifies one output directory. It makes no distinction between production and local. However, in this environment, the directories are separated for local and production. I'm hard-coding to implement this, so I'm doing awkward coding.
 
 
 ## Todo, July 2021

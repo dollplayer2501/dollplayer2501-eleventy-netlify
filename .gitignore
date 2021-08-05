@@ -13,4 +13,5 @@ Thumbs.db
 # Node modules and output
 node_modules
 src/_includes/css
+_site
 .vscode

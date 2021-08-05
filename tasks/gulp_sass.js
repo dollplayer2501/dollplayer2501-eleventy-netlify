@@ -7,7 +7,13 @@ const isProduction = process.env.NODE_ENV === 'production';
 const criticalStyles = ['critical.sass', 'who_am_i.sass'];
 
 const calculateOutput = ({history}) => {
-  let response = './docs/css';
+  let response = '';
+  if (isProduction) {
+    response = './docs/css';
+  } else {
+    response = './_site/css';
+  }
+
   const sourceFileName = /[^/]*$/.exec(history[0])[0];
   if (criticalStyles.includes(sourceFileName)) {
     response = './src/_includes/css';
