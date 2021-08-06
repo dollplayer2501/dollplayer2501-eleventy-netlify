@@ -1,7 +1,8 @@
 const {dest, src} = require('gulp');
 const cleanCSS = require('gulp-clean-css');
-const sassProcessor = require('gulp-sass');
-sassProcessor.compiler = require('sass');
+// const sassProcessor = require('gulp-sass');
+// sassProcessor.compiler = require('sass');
+const sassProcessor = require('gulp-sass')(require('sass'));
 
 const isProduction = process.env.NODE_ENV === 'production';
 const criticalStyles = ['critical.sass', 'who_am_i.sass'];
