@@ -15,3 +15,4 @@ node_modules
 src/_includes/css
 _site
 .vscode
+package-lock.json
