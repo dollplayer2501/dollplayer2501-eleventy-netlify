@@ -7,7 +7,8 @@ description: スマホだと厳しいかも…
 このサイトを構築した[Morry Masahiko](https://twitter.com/dollplayer2501)とは何者か？  
 をつらつら書き綴ったページになります。
 
-なお、このページは[Impress.js](impress.js.org)という、JavaScriptプレゼンテーションツールを使用しております。
+なお、このページは[Impress.js](impress.js.org)という、JavaScriptプレゼンテーションツールを使用しております。  
+および…アンカーリンクが上手く働いていない可能性が高いです…
 
 - 「右矢印キー」・「スペースキー」：次に進む
 - 「左矢印キー」：一つ前に戻る

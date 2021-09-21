@@ -29,9 +29,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyRssPlugin);
 
   //
-  eleventyConfig.addCollection('homeSections', async collectionApi => {
+  eleventyConfig.addCollection('whoAmISections', async collectionApi => {
     return collectionApi
-      .getFilteredByGlob('./src/sections/*.md')
+      .getFilteredByGlob('./src/sections/who_am_i_*.md')
       .sort((a, b) =>
         Number(a.data.displayOrder) > Number(b.data.displayOrder) ? 1 : -1
       );

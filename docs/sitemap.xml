@@ -124,13 +124,29 @@
   
 
   
+
+  
   <url>
     <loc>https://dollplayer2501.netlify.app/who_am_i.html</loc>
-    <lastmod>2021-07-21T12:20:11.608Z</lastmod>
+    <lastmod>2021-07-27T00:00:00.000Z</lastmod>
     <changefreq>yearly</changefreq>
   </url>
   
 
+  
+  <url>
+    <loc>https://dollplayer2501.netlify.app/who_am_i_02.html</loc>
+    <lastmod>2021-07-27T00:00:00.000Z</lastmod>
+    <changefreq>yearly</changefreq>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://dollplayer2501.netlify.app/who_am_i_01.html</loc>
+    <lastmod>2021-09-21T00:00:00.000Z</lastmod>
+    <changefreq>yearly</changefreq>
+  </url>
   
 
 </urlset>

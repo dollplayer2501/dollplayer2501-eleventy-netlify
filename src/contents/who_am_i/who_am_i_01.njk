@@ -1,0 +1,44 @@
+---
+title: わたしはだぁれ？ plane text edition
+permalink: /who_am_i_01.html
+eleventyNavigation:
+  parent: who_am_i
+  key: わたしはだぁれ？ plane text edition
+  title: わたしはだぁれ？ plane text edition
+  order: 2
+layout: layouts/page.njk
+metaDesc: 唐突な自分語りは如何なものか…
+date: 2021-09-21
+updated: 2021-09-21
+cssBodyId: who-am-i-text
+tags:
+  - rss
+---
+
+{% for item in collections.whoAmISections %}
+  {% if loop.index > 1 %}
+    {% set tmp_offset = '' %}
+    {% if loop.index == 3 %}
+      {% set tmp_offset = 'is-offset-1' %}
+    {% elseif loop.index == 4 %}
+      {% set tmp_offset = 'is-offset-2' %}
+    {% elseif loop.index == 5 %}
+      {% set tmp_offset = 'is-offset-1' %}
+    {% elseif loop.index == 7 %}
+      {% set tmp_offset = 'is-offset-1' %}
+    {% endif %}
+
+  <article class="container">
+    <div class="colums">
+      <section class="column is-8 {{ tmp_offset }}">
+        <div class="content">
+          <h3>{{ item.data.title | safe }}</h3>
+          <hr />
+          <p class="description">{{ item.data.description | safe }}</p>
+{{ item.templateContent | safe }}
+        </div>
+      </section>
+    </div>
+  </article>
+  {% endif %}
+{% endfor %}
