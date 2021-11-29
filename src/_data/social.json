@@ -15,6 +15,11 @@
     "fontawesome": "fa-github-square"
   },
   {
+    "name": "SlideShare",
+    "url": "https://www.slideshare.net/dollplayer2501",
+    "fontawesome": "fa-slideshare"
+  },
+  {
     "name": "Steam",
     "url": "https://steamcommunity.com/id/preg_match_all/",
     "fontawesome": "fa-steam-square"
