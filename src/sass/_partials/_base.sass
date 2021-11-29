@@ -1,15 +1,15 @@
-@charset "utf-8"
-@import './variable'
+@charset 'utf-8'
+@use './_variable' as vars
 
 ::selection
-  background-color: $hexa-red
-  color: $hexa-brown-light
+  background-color: vars.$hexa-red
+  color: vars.$hexa-brown-light
 
 ::-webkit-scrollbar
   height: 0.4rem
 
 ::-webkit-scrollbar-track
-  background-color: $hexa-brown-light
+  background-color: vars.$hexa-brown-light
 
 ::-webkit-scrollbar-thumb
-  background-color: $hexa-brown-dark
+  background-color: vars.$hexa-brown-dark

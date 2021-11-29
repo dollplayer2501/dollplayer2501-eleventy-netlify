@@ -1,13 +1,14 @@
-@charset "utf-8"
-@use "sass:math"
+@charset 'utf-8'
+@use 'sass:math'
 
-@import './variable'
+@use './_variable' as vars
+@use './_mixin' as mixs
 
 header
-  background: linear-gradient($hexa-brown-dark, $hexa-brown-light)
+  background: linear-gradient(vars.$hexa-brown-dark, vars.$hexa-brown-light)
 
   a
-    @include ancher-decolation($hexa-brown-dark, $hexa-red, false)
+    @include mixs.ancher-decolation(vars.$hexa-brown-dark, vars.$hexa-red, false)
 
   h1.title
     margin-bottom: 0 !important
@@ -16,11 +17,11 @@ header
     font-weight: bold
 
   hr
-    @include hr-linear-gradient(0, math.div($base-margin, 2), transparent, $hexa-red)
+    @include mixs.hr-linear-gradient(0, math.div(vars.$base-margin, 2), transparent, vars.$hexa-red)
 
   figure
     margin: 0 0 0 auto
-    margin-bottom: math.div($base-margin, 2) !important
+    margin-bottom: math.div(vars.$base-margin, 2) !important
 
   p.more-info
     font-size: 0.9rem

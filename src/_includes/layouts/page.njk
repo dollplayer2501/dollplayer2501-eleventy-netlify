@@ -27,11 +27,11 @@
           <h2>{{ title | safe }}</h2>
           <hr />
           <p class="meta-info">
-{% if 0 < eleventyNavigation.parent | length %}
-            <a href="{{ parentInfo.url }}">{{ parentInfo.title }}</a><br />
-{% endif %}
             Created: {{ created_date }}<br />
             Modified: {{ modified_date }}
+{% if 0 < eleventyNavigation.parent | length %}
+            <span class="upper-article"><a href="{{ parentInfo.url }}">{{ parentInfo.title }}</a></span><br />
+{% endif %}
           </p>
 {{ content | safe }}
         </div>

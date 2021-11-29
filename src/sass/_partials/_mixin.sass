@@ -1,5 +1,5 @@
-@charset "utf-8"
-@import './variable'
+@charset 'utf-8'
+@use './_variable' as vars
 
 @mixin hr-linear-gradient($margin-top, $margin-bottom, $line-color-from, $line-color-to)
   margin-top: $margin-top
@@ -13,7 +13,7 @@
   color: $color-normal
 
   @if $border
-    border-bottom: 1px dotted $hexa-brown-dark
+    border-bottom: 1px dotted vars.$hexa-brown-dark
   @else
     border-bottom: none
 

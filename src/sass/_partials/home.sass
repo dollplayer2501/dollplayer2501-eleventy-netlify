@@ -1,5 +1,6 @@
-@charset "utf-8"
-@import './variable'
+@charset 'utf-8'
+@use './_variable' as vars
+@use './_mixin' as mixs
 
 
 body#home
@@ -9,30 +10,30 @@ body#home
       margin-bottom: 0
       padding-bottom: 0
       font-size: 1.4rem
-      color: $hexa-brown-dark
+      color: vars.$hexa-brown-dark
 
     hr
-      @include hr-linear-gradient(0, $base-margin, $hexa-red, transparent)
+      @include mixs.hr-linear-gradient(0, vars.$base-margin, vars.$hexa-red, transparent)
 
     &#contents-list
 
       ol li a
-        @include ancher-decolation($hexa-brown-dark, $hexa-red, false)
+        @include mixs.ancher-decolation(vars.$hexa-brown-dark, vars.$hexa-red, false)
 
     &#introduction
-      margin-bottom: $base-margin * 3
+      margin-bottom: vars.$base-margin * 3
       padding-bottom: 0
 
     &#history
 
       section.column
-        margin-bottom: $base-margin * 3
+        margin-bottom: vars.$base-margin * 3
 
         h3
           margin-bottom: 0
           padding-bottom: 0
           font-size: 1.2rem
-          color: $hexa-brown-dark
+          color: vars.$hexa-brown-dark
 
         hr
           margin-top: 0

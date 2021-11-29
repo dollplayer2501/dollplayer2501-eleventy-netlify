@@ -1,14 +1,15 @@
-@charset "utf-8"
-@import './variable'
+@charset 'utf-8'
+@use './_variable' as vars
+@use './_mixin' as mixs
 
 body#list
   article.container
 
     &#main-text
-      margin-bottom: $base-margin * 2
+      margin-bottom: vars.$base-margin * 2
 
       section.footnotes
-        margin-top: $base-margin * 3
+        margin-top: vars.$base-margin * 3
 
         h3
           margin-bottom: 0
@@ -21,4 +22,4 @@ body#list
     &#contents-list
 
       ol li a
-        @include ancher-decolation($hexa-brown-dark, $hexa-red, false)
+        @include mixs.ancher-decolation(vars.$hexa-brown-dark, vars.$hexa-red, false)

@@ -1,15 +1,16 @@
-@charset "utf-8"
-@import './variable'
+@charset 'utf-8'
+@use './_variable' as vars
+@use './_mixin' as mixs
 
 body#page
   article.container
 
     h3, h4
-      margin-bottom: $base-margin
+      margin-bottom: vars.$base-margin
 
     .table-of-contents
-      margin-top: $base-margin * 5
-      margin-bottom: $base-margin * 5
+      margin-top: vars.$base-margin * 5
+      margin-bottom: vars.$base-margin * 5
 
       .toc-container-header
         margin-top: 0
@@ -28,7 +29,7 @@ body#page
         hr
           margin-top: 0
           padding-top: 0
-          margin-bottom: $base-margin
+          margin-bottom: vars.$base-margin
           padding-bottom: 0
 
       ul
@@ -41,13 +42,13 @@ body#page
           line-height: 1.2
 
           a
-            @include ancher-decolation($hexa-brown-dark, $hexa-red, false)
+            @include mixs.ancher-decolation(vars.$hexa-brown-dark, vars.$hexa-red, false)
 
     &#contents-list
 
       ol li a
-        @include ancher-decolation($hexa-brown-dark, $hexa-red, false)
+        @include mixs.ancher-decolation(vars.$hexa-brown-dark, vars.$hexa-red, false)
 
       p a
-        @include ancher-decolation($hexa-brown-dark, $hexa-red, false)
+        @include mixs.ancher-decolation(vars.$hexa-brown-dark, vars.$hexa-red, false)
         font-weight: bold

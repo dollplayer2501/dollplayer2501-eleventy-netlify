@@ -1,7 +1,7 @@
-@charset "utf-8"
+@charset 'utf-8'
 
-@import './_partials/_variable'
-@import './_partials/_mixin'
+@use './_partials/variable' as vars
+@use './_partials/_mixin' as mixs
 @import './_partials/_base'
 
 body#who-am-i-text
@@ -24,3 +24,12 @@ body#who-am-i-text
             margin-top: 0
             padding-top: 0
             font-weight: bold
+
+    &#contents-list
+
+      ol li a
+        @include mixs.ancher-decolation(vars.$hexa-brown-dark, vars.$hexa-red, false)
+
+      p a
+        @include mixs.ancher-decolation(vars.$hexa-brown-dark, vars.$hexa-red, false)
+        font-weight: bold
