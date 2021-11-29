@@ -6,13 +6,13 @@
         <h2>More Info...</h2>
         <hr />
         <p>
-          Special thanks...
+          <span class="info-strong">Special thanks...</span>
 {% for item in thanks %}
           <a href="{{ item.url }}">{{ item.name | safe }}</a>{% if loop.last %}.{% else %}, {% endif %}
 {% endfor %}
         </p>
         <p>
-          {{ site.author.name }} is here...
+          <span class="info-strong">{{ site.author.name }} is here...</span>
 {% for item in social %}
           <a href="{{ item.url }}">{{ item.name | safe }}</a>{% if loop.last %}.{% else %}, {% endif %}
 {% endfor %}
