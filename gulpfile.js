@@ -5,7 +5,7 @@ const images = require('./tasks/gulp_images.js');
 const sass = require('./tasks/gulp_sass.js');
 
 const watcher = () => {
-  watch('./src/images/**/*', {ignoreInitial: true}, images);
+  watch('./src/assets/images/**/*', {ignoreInitial: true}, images);
   watch('./src/sass/**/*.sass', {ignoreInitial: true}, sass);
 };
 
