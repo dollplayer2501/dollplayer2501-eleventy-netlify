@@ -17,6 +17,8 @@ tags:
 
 ここでは11ty/Eleventy _以外_ の技術に関して、以下、戯言を。
 
+[[toc]]
+
 ### Bulma CSS Framework
 
 - [Bootstrap](https://getbootstrap.com/)

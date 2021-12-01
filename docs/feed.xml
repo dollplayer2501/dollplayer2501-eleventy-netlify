@@ -4,7 +4,7 @@
   <subtitle>A feed of the latest posts from our blog.</subtitle>
   <link href="https://dollplayer2501.netlify.app/feed.xml" rel="self"/>
   <link href="https://dollplayer2501.netlify.app/"/>
-  <updated>2021-12-01T04:55:13Z</updated>
+  <updated>2021-12-01T07:32:45Z</updated>
   <id>https://dollplayer2501.netlify.app</id>
   <author>
     <name>Morry Masahiko</name>
@@ -464,6 +464,7 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
     <id>https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site_02.html</id>
     <content type="html"><![CDATA[
 <p>ここでは11ty/Eleventy <em>以外</em> の技術に関して、以下、戯言を。</p>
+<p><div class="table-of-contents"><div class="toc-container-header"><h3>Table of contents</h3><hr /></div><ul><li><a href="#bulma-css-framework">Bulma CSS Framework</a></li><li><a href="#nunjucks">Nunjucks</a></li><li><a href="#laravel-mix-%E2%80%A6%E3%81%AE%E6%8E%A1%E7%94%A8%E3%81%AF%E7%8F%BE%E5%9C%A8%E3%80%81%E8%A6%8B%E9%80%81%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99">Laravel Mix …の採用は現在、見送ってます</a></li><li><a href="#%E3%81%98%E3%82%83%E3%81%81gulp%E3%81%AF%E4%BB%8A%E5%BE%8C%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%E3%81%AE%EF%BC%9F">じゃぁGulpは今後使わないの？</a></li></ul></div></p>
 <h3 id="bulma-css-framework" tabindex="-1">Bulma CSS Framework</h3>
 <ul>
 <li><a href="https://getbootstrap.com/">Bootstrap</a></li>

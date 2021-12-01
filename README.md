@@ -26,7 +26,7 @@ I built this based on [Eleventy][Eleventy-url], not to mass produce articles on 
 
 ## Getting started
 
-1. Run `nvm use`
+1. ~~Run `nvm use`~~
 1. Run `npm install`
 1. Run `npm run start` to run locally, `./_site`
 1. Run `npm run production` to do a prod build, `./docs`
