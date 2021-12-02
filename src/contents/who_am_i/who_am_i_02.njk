@@ -14,6 +14,7 @@ cssBodyId:
 tags:
   - rss
 ---
+{% set assetHash = global.random() %}
 <!doctype html>
 <html lang="{{ site.language }}">
   <head>
@@ -21,8 +22,11 @@ tags:
     <meta name="viewport" content="width=1024" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
 {% include "partials/meta-info.njk" %}
-    <link href="//fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
-    <style>{% include "css/who_am_i_impress.css" %}</style>
+
+{% set css %}{% include ".css/who_am_i_impress.css" %}{% endset %}
+    <style>{{ css| cssmin | safe }}</style>
+
+    <link rel="stylesheet" media="print" href="/assets/fonts/fonts.css?{{ assetHash }}" onload="this.media='all'" />
   </head>
   <body class="impress-not-supported" style="height:100%;overflow:hidden;">
 

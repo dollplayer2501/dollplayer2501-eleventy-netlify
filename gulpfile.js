@@ -1,4 +1,4 @@
-const {parallel, watch} = require('gulp');
+const {series, watch} = require('gulp');
 
 const fonts = require('./tasks/gulp_fonts.js');
 const images = require('./tasks/gulp_images.js');
@@ -9,6 +9,6 @@ const watcher = () => {
   watch('./src/sass/**/*.sass', {ignoreInitial: true}, sass);
 };
 
-exports.default = parallel(fonts, images, sass);
+exports.default = series(sass, fonts, images);
 
 exports.watch = watcher;

@@ -13,12 +13,14 @@ const markdownItTableOfContents = require('markdown-it-table-of-contents');
 const markdownItAnchor = require('markdown-it-anchor');
 //
 const htmlMinTransform = require('./tasks/eleventy_html-minifier.js');
+const cssCleanFilter = require('./tasks/eleventy_css-clean.js');
 //
 const shortcodes = require('./tasks/eleventy_shortcodes.js');
 //
 const fs = require('fs');
 //
 const isProduction = process.env.NODE_ENV === 'production';
+console.log('11ty Production Mode: ' + isProduction);
 
 module.exports = function (eleventyConfig) {
   //
@@ -73,9 +75,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLibrary('md', markdownLib);
 
   //
-  if (isProduction) {
-    eleventyConfig.addTransform('htmlMinifier', htmlMinTransform);
-  }
+  eleventyConfig.addTransform('htmlMinifier', htmlMinTransform);
+  eleventyConfig.addFilter('cssmin', cssCleanFilter);
 
   //
   eleventyConfig.addPassthroughCopy({'src/static/*.*': '/'});
