@@ -1,12 +1,12 @@
 [
   {
     "name": "Eleventy",
-    "description": "static site generator",
+    "description": "Static site generator",
     "url": "https://www.11ty.dev/"
   },
   {
     "name": "Gulp.js",
-    "description": "",
+    "description": "Streaming build system",
     "url": "https://gulpjs.com/"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "name": "GitHub",
-    "description": "This URL is my repository",
+    "description": "This url is the repository of this site",
     "url": "https://github.com/dollplayer2501/dollplayer2501-eleventy-netlify"
   },
   {
