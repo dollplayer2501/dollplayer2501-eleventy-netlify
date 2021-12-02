@@ -4,7 +4,7 @@
   <subtitle>A feed of the latest posts from our blog.</subtitle>
   <link href="https://dollplayer2501.netlify.app/feed.xml" rel="self"/>
   <link href="https://dollplayer2501.netlify.app/"/>
-  <updated>2021-12-02T18:50:13Z</updated>
+  <updated>2021-12-02T19:14:23Z</updated>
   <id>https://dollplayer2501.netlify.app</id>
   <author>
     <name>Morry Masahiko</name>
@@ -14,9 +14,9 @@
   
   <entry>
     <title>聴いていた曲を羅列してみる</title>
-    <link href="https://dollplayer2501.netlify.app/musique_non_stop.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop/"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/musique_non_stop.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop/</id>
     <content type="html"><![CDATA[
 <p>Twitterの「固定されたツイート」に何をピン留めするか、あるいは、しないかは好みが分かれると思います。<br>
 自分の場合、そもそも世間様に向かってアピールできる程の「何か」を持ち合わせていないので、以前はそれをしていませんでした。</p>
@@ -36,9 +36,9 @@
   
   <entry>
     <title>DJ Shadow - Midnight In A Perfect World</title>
-    <link href="https://dollplayer2501.netlify.app/musique_non_stop_01.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop/01/"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/musique_non_stop_01.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop/01/</id>
     <content type="html"><![CDATA[
 <p>記念すべき一発目は、やはりどうしても想いが…</p>
 <iframe width="480" height="270" class="mb-4"
@@ -84,9 +84,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>Ott - Splitting An Atom</title>
-    <link href="https://dollplayer2501.netlify.app/musique_non_stop_02.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop/02/"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/musique_non_stop_02.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop/02/</id>
     <content type="html"><![CDATA[
 <iframe width="480" height="270" class="mb-4"
 src="https://www.youtube.com/embed/YX5SJtZ5xPE"
@@ -142,9 +142,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>ddh aka 4つ鬱P - Midnight Coke</title>
-    <link href="https://dollplayer2501.netlify.app/musique_non_stop_03.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop/03/"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/musique_non_stop_03.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop/03/</id>
     <content type="html"><![CDATA[
 <iframe width="380" height="160"
 src="https://ext.nicovideo.jp/thumb/sm11334765"
@@ -222,9 +222,9 @@ scrolling="no" style="border:solid 1px #ccc;" frameborder="0" class="mb-4">
   
   <entry>
     <title>Handkanten Akt from Vier Minuten</title>
-    <link href="https://dollplayer2501.netlify.app/musique_non_stop_04.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop/04/"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/musique_non_stop_04.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop/04/</id>
     <content type="html"><![CDATA[
 <iframe width="480" height="270" class="mb-4"
 src="https://www.youtube.com/embed/8acN81mRueY"
@@ -244,9 +244,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>Tori Amos - Precious Things</title>
-    <link href="https://dollplayer2501.netlify.app/musique_non_stop_05.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop/05/"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/musique_non_stop_05.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop/05/</id>
     <content type="html"><![CDATA[
 <iframe width="480" height="270" class="mb-4"
 src="https://www.youtube.com/embed/2CdWEHjaL30?start=797"
@@ -290,9 +290,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>DJonemesis &amp; Lilly - From Eldorado To The Pleiades</title>
-    <link href="https://dollplayer2501.netlify.app/musique_non_stop_06.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop/06/"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/musique_non_stop_06.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop/06/</id>
     <content type="html"><![CDATA[
 <iframe width="480" height="270" class="mb-4"
 src="https://www.youtube.com/embed/jOQLjYkEhoM"
@@ -324,9 +324,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>Cherry (UA) - Aiza (Original Mix)</title>
-    <link href="https://dollplayer2501.netlify.app/musique_non_stop_07.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop/07/"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/musique_non_stop_07.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop/07/</id>
     <content type="html"><![CDATA[
 <iframe width="480" height="270" class="mb-4"
 src="https://www.youtube.com/embed/lZhYoVG7F2k"
@@ -375,9 +375,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>閑話休題 No.1 - ふと、ふいにアタマをよぎる曲</title>
-    <link href="https://dollplayer2501.netlify.app/musique_non_stop_08.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop/08/"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/musique_non_stop_08.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop/08/</id>
     <content type="html"><![CDATA[
 <p>以上までが「過去」になり、これ以降はリアルタイムで更新…していけるといいなぁ、です。<br>
 つまりそれは、今回のプラットフォームとして選択した<a href="https://www.11ty.dev/">Eleventy</a>の常用運用フェーズに入った、という事になります…というのは、まぁどうでもいい事ですが。</p>
@@ -425,9 +425,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>それ以前の状況について私が知っている二、三の事柄</title>
-    <link href="https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site_01.html"/>
+    <link href="https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site/01/"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site_01.html</id>
+    <id>https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site/01/</id>
     <content type="html"><![CDATA[
 <p>一応、簡単にこれまでの経緯を説明しますと、時は21世紀初初頭にまで遡りまして、ざっくり…</p>
 <ol>
@@ -459,9 +459,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipb
   
   <entry>
     <title>ベースとなる技術ついて私が知っている二、三の事柄</title>
-    <link href="https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site_02.html"/>
+    <link href="https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site/02/"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site_02.html</id>
+    <id>https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site/02/</id>
     <content type="html"><![CDATA[
 <p>ここでは11ty/Eleventy <em>以外</em> の技術に関して、以下、戯言を。</p>
 <p><div class="table-of-contents"><div class="toc-container-header"><h3>Table of contents</h3><hr /></div><ul><li><a href="#bulma-css-framework">Bulma CSS Framework</a></li><li><a href="#nunjucks">Nunjucks</a></li><li><a href="#laravel-mix-%E2%80%A6%E3%81%AE%E6%8E%A1%E7%94%A8%E3%81%AF%E7%8F%BE%E5%9C%A8%E3%80%81%E8%A6%8B%E9%80%81%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99">Laravel Mix …の採用は現在、見送ってます</a></li><li><a href="#%E3%81%98%E3%82%83%E3%81%81gulp%E3%81%AF%E4%BB%8A%E5%BE%8C%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%E3%81%AE%EF%BC%9F">じゃぁGulpは今後使わないの？</a></li></ul></div></p>
@@ -533,9 +533,9 @@ Bulmaの場合だと、Webpackでの利用方法ではありますが、<a href=
   
   <entry>
     <title>基礎習得後の苦難ついて私が知っている二、三の事柄</title>
-    <link href="https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site_03.html"/>
+    <link href="https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site/03/"/>
     <updated>2021-06-07T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site_03.html</id>
+    <id>https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site/03/</id>
     <content type="html"><![CDATA[
 <p>さて、ようやく本題？</p>
 <p><div class="table-of-contents"><div class="toc-container-header"><h3>Table of contents</h3><hr /></div><ul><li><a href="#11ty%2Feleventy">11ty/Eleventy</a></li><li><a href="#%E5%95%8F%E9%A1%8C%E3%81%AF%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%9F">問題はその先に存在した</a></li><li><a href="#morry%E3%82%BB%E3%83%B3%E3%82%BB%E3%81%AE%E6%AC%A1%E5%9B%9E%E4%BD%9C%E3%81%AB%E3%81%94%E6%9C%9F%E5%BE%85%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84">Morryセンセの次回作にご期待ください</a></li></ul></div></p>
@@ -600,9 +600,9 @@ JavaScriptベースに限らず有名ドコロだと、何となくの印象的�
   
   <entry>
     <title>このサイトの構築について私が知っている二、三の事柄</title>
-    <link href="https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site.html"/>
+    <link href="https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site/"/>
     <updated>2021-07-04T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site.html</id>
+    <id>https://dollplayer2501.netlify.app/two_or_three_things_I_Know_about_this_site/</id>
     <content type="html"><![CDATA[
 <p>いや、その映画…監督含めて、タイトルは知ってはいますが、観た事無いです…ああ、ムーンライダーズの楽曲も聞いた事無いなぁ…<br>
 …はともかく、もしも真面目に<a href="https://www.11ty.dev/">11ty/Eleventy</a>の情報を、の方々には非常に申し訳ないですが、ここに的確で有用な情報は無いと思います。<br>
@@ -633,9 +633,9 @@ JavaScriptベースに限らず有名ドコロだと、何となくの印象的�
   
   <entry>
     <title>わたしはだぁれ？</title>
-    <link href="https://dollplayer2501.netlify.app/who_am_i.html"/>
+    <link href="https://dollplayer2501.netlify.app/who_am_i/"/>
     <updated>2021-07-27T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/who_am_i.html</id>
+    <id>https://dollplayer2501.netlify.app/who_am_i/</id>
     <content type="html"><![CDATA[
 <p>唐突な自分語り、どうかなーとは思いますが。<br>
 個人的には、一時期流行したjQuery/JavaScriptのプレゼンテーションツールの試験利用的な。<br>
@@ -647,9 +647,9 @@ JavaScriptベースに限らず有名ドコロだと、何となくの印象的�
   
   <entry>
     <title>わたしはだぁれ？ feat. impress.js (for desktop pc)</title>
-    <link href="https://dollplayer2501.netlify.app/who_am_i_02.html"/>
+    <link href="https://dollplayer2501.netlify.app/who_am_i/02/"/>
     <updated>2021-07-27T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/who_am_i_02.html</id>
+    <id>https://dollplayer2501.netlify.app/who_am_i/02/</id>
     <content type="html"><![CDATA[
 
 <!doctype html>
@@ -677,12 +677,12 @@ JavaScriptベースに限らず有名ドコロだと、何となくの印象的�
 
 
 <title>わたしはだぁれ？ feat. impress.js (for desktop pc) « undefined « unlimited text works, the 4th.</title>
-<link rel="canonical" href="https://dollplayer2501.netlify.app/who_am_i_02.html" />
+<link rel="canonical" href="https://dollplayer2501.netlify.app/who_am_i/02/" />
 
 <meta property="og:site_name" content="unlimited text works, the 4th." />
 <meta property="og:title" content="わたしはだぁれ？ feat. impress.js (for desktop pc) « undefined « unlimited text works, the 4th." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://dollplayer2501.netlify.app/who_am_i_02.html" />
+<meta property="og:url" content="https://dollplayer2501.netlify.app/who_am_i/02/" />
 
 
   <meta name="twitter:card" content="summary" />
@@ -720,7 +720,7 @@ JavaScriptベースに限らず有名ドコロだと、何となくの印象的�
 
     <style>::selection{background-color:#d25349;color:#e9e7e3}::-webkit-scrollbar{height:.4rem}::-webkit-scrollbar-track{background-color:#e9e7e3}::-webkit-scrollbar-thumb{background-color:#6a524a}#impress .step .substep{opacity:0}#impress .step .substep.substep-visible{opacity:1;transition:opacity 1s}.notes{display:none}.impress-enabled{pointer-events:none}.impress-enabled div#impress-toolbar{position:fixed;right:1px;bottom:1px;opacity:.6;z-index:10}.impress-enabled div#impress-toolbar>span{margin-right:10px}.impress-enabled div#impress-toolbar.impress-toolbar-show{display:block}.impress-enabled div#impress-toolbar.impress-toolbar-hide{display:none}.impress-enabled .impress-progressbar{position:absolute;right:318px;bottom:1px;left:118px;border-radius:7px;border:2px solid rgba(100,100,100,.2)}.impress-enabled .impress-progress{position:absolute;left:59px;bottom:1px;text-align:left;opacity:.6}.impress-enabled #impress-help{background:none repeat scroll 0 0 rgba(0,0,0,.5);color:#eee;font-size:80%;position:fixed;left:2em;bottom:2em;width:24em;border-radius:1em;padding:1em;text-align:center;z-index:100;font-family:Verdana,Arial,Sans}.impress-enabled #impress-help td{padding-left:1em;padding-right:1em}.impress-enabled #impress{pointer-events:auto}.impress-enabled #impress-toolbar{pointer-events:auto}.impress-enabled #impress-console-button{pointer-events:auto}.impress-progress{position:absolute;left:59px;bottom:1px;text-align:left;font-size:10pt;opacity:.6}.impress-progressbar{right:118px}.impress-progressbar DIV{width:0;height:2px;border-radius:5px;background:rgba(75,75,75,.4);transition:width 1s linear}body.impress-mouse-timeout{cursor:none}body.impress-mouse-timeout div#impress-toolbar{display:none}.fallback-message{font-family:sans-serif;line-height:1.3;width:780px;padding:10px 10px 0;margin:20px auto;border:1px solid #e4c652;border-radius:10px;background:#eedc94}.fallback-message p{margin-bottom:10px}.impress-supported .fallback-message{display:none}body{min-height:740px;background:linear-gradient(#e9e7e3,#6a524a);color:#6a524a}.step{position:relative;display:block;width:900px;height:700px;margin:20px auto;padding:40px 60px;font-size:18px}.impress-enabled .step{margin:0;opacity:.3;transition:opacity 1s}.impress-enabled .step.active{opacity:1}.impress-enabled h3{margin-top:0;padding-top:0;margin-bottom:0;padding-bottom:0}.impress-enabled h3 small{font-size:.8rem}.impress-enabled hr{margin-top:0;padding-top:0;background-color:transparent;border:none;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;height:1px;background-image:linear-gradient(to right,#d25349,transparent)}.impress-enabled p{margin-right:0;padding-right:0;margin-left:0;padding-left:0}.impress-enabled p.description{margin-top:0;padding-top:0;font-weight:700;font-size:.9em}.impress-enabled p.goto-home{text-align:right;font-size:.9rem}.impress-enabled dl dd{margin-left:0;padding-left:1.4rem}h1,h2{margin-bottom:.5em;margin-top:.5em}p{margin:.7em}li{margin:.2em}pre>code{font-size:14px;text-shadow:0 0 0 transparent}code{font-family:monospace}a{color:inherit;text-decoration:none;color:#6a524a;border-bottom:1px dotted #6a524a}a:hover{color:#d25349;border-bottom:none}blockquote{font-style:italic;font-weight:400}em{text-shadow:0 2px 2px rgba(0,0,0,.3)}strong{text-shadow:-1px 1px 2px rgba(100,100,100,.5)}q{font-style:italic;font-weight:400;text-shadow:0 2px 2px rgba(0,0,0,.3)}strike{opacity:.7}img{width:300px}img.bg{position:fixed;z-index:-100;opacity:0;height:50%;width:auto;transition:opacity 2s}#applepie-image{left:0;bottom:0}body.impress-on-applepie #applepie-image,body.impress-on-applepie-con #applepie-image,body.impress-on-applepie-pro #applepie-image,body.impress-on-conclusion #applepie-image,body.impress-on-overview #applepie-image{opacity:.7;transition:opacity 2s}#icecream-image{right:0;top:0}body.impress-on-conclusion #icecream-image,body.impress-on-icecream #icecream-image,body.impress-on-icecream-con #icecream-image,body.impress-on-icecream-pro #icecream-image,body.impress-on-overview #icecream-image{opacity:.7;transition:opacity 2s}#crisps-image{right:0;bottom:0}body.impress-on-conclusion #crisps-image,body.impress-on-crisps #crisps-image,body.impress-on-crisps-con #crisps-image,body.impress-on-crisps-pro #crisps-image,body.impress-on-overview #crisps-image{opacity:.7;transition:opacity 2s}#image-credits{color:#798}</style>
 
-    <link rel="stylesheet" media="print" href="/assets/fonts/fonts.css?124e-7456-bf2b" onload="this.media='all'" />
+    <link rel="stylesheet" media="print" href="/assets/fonts/fonts.css?639d-408b-65ef" onload="this.media='all'" />
   </head>
   <body class="impress-not-supported" style="height:100%;overflow:hidden;">
 
@@ -860,9 +860,9 @@ JavaScriptベースに限らず有名ドコロだと、何となくの印象的�
   
   <entry>
     <title>わたしはだぁれ？ plane text edition</title>
-    <link href="https://dollplayer2501.netlify.app/who_am_i_01.html"/>
+    <link href="https://dollplayer2501.netlify.app/who_am_i/01/"/>
     <updated>2021-09-21T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/who_am_i_01.html</id>
+    <id>https://dollplayer2501.netlify.app/who_am_i/01/</id>
     <content type="html"><![CDATA[
 
 
@@ -1034,9 +1034,9 @@ JavaScriptベースに限らず有名ドコロだと、何となくの印象的�
   
   <entry>
     <title>輝夜月 - Dance With Cinderella !</title>
-    <link href="https://dollplayer2501.netlify.app/musique_non_stop_09.html"/>
+    <link href="https://dollplayer2501.netlify.app/musique_non_stop/09/"/>
     <updated>2021-12-01T00:00:00Z</updated>
-    <id>https://dollplayer2501.netlify.app/musique_non_stop_09.html</id>
+    <id>https://dollplayer2501.netlify.app/musique_non_stop/09/</id>
     <content type="html"><![CDATA[
 <iframe width="480" height="270" class="mb-4"
 src="https://www.youtube.com/embed/Fw--zRltlyE"

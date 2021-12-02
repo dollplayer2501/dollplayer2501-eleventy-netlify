@@ -1,6 +1,6 @@
 ---
 title: Cherry (UA) - Aiza (Original Mix)
-permalink: /musique_non_stop_07.html
+permalink: /musique_non_stop/07/index.html
 eleventyNavigation:
   parent: musique_non_stop
   key: Cherry (UA) - Aiza (Original Mix)

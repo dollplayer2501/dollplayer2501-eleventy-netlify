@@ -1,6 +1,6 @@
 ---
 title: ベースとなる技術ついて私が知っている二、三の事柄
-permalink: /two_or_three_things_I_Know_about_this_site_02.html
+permalink: /two_or_three_things_I_Know_about_this_site/02/index.html
 eleventyNavigation:
   parent: two_or_three_things_I_Know_about_this_site
   key: ベースとなる技術ついて私が知っている二、三の事柄

@@ -1,6 +1,6 @@
 ---
 title: Tori Amos - Precious Things
-permalink: /musique_non_stop_05.html
+permalink: /musique_non_stop/05/index.html
 eleventyNavigation:
   parent: musique_non_stop
   key: Tori Amos - Precious Things

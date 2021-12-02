@@ -1,6 +1,6 @@
 ---
 title: DJ Shadow - Midnight In A Perfect World
-permalink: /musique_non_stop_01.html
+permalink: /musique_non_stop/01/index.html
 eleventyNavigation:
   parent: musique_non_stop
   key: DJ Shadow - Midnight In A Perfect World

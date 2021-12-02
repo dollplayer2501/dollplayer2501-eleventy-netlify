@@ -1,6 +1,6 @@
 ---
 title: このサイトの構築について私が知っている二、三の事柄
-permalink: /two_or_three_things_I_Know_about_this_site.html
+permalink: /two_or_three_things_I_Know_about_this_site/index.html
 eleventyNavigation:
   key: two_or_three_things_I_Know_about_this_site
   title: このサイトの構築について私が知っている二、三の事柄

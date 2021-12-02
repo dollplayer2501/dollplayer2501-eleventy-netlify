@@ -1,6 +1,6 @@
 ---
 title: ddh aka 4つ鬱P - Midnight Coke
-permalink: /musique_non_stop_03.html
+permalink: /musique_non_stop/03/index.html
 eleventyNavigation:
   parent: musique_non_stop
   key: ddh aka 4つ鬱P - Midnight Coke

@@ -1,6 +1,6 @@
 ---
 title: それ以前の状況について私が知っている二、三の事柄
-permalink: /two_or_three_things_I_Know_about_this_site_01.html
+permalink: /two_or_three_things_I_Know_about_this_site/01/index.html
 eleventyNavigation:
   parent: two_or_three_things_I_Know_about_this_site
   key: それ以前の状況について私が知っている二、三の事柄

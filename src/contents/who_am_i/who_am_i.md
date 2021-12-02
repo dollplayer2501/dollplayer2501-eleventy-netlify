@@ -1,6 +1,6 @@
 ---
 title: わたしはだぁれ？
-permalink: /who_am_i.html
+permalink: /who_am_i/index.html
 eleventyNavigation:
   key: who_am_i
   title: わたしはだぁれ？

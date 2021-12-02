@@ -1,6 +1,6 @@
 ---
 title: 閑話休題 No.1 - ふと、ふいにアタマをよぎる曲
-permalink: /musique_non_stop_08.html
+permalink: /musique_non_stop/08/index.html
 eleventyNavigation:
   parent: musique_non_stop
   key: 閑話休題 No.1 - ふと、ふいにアタマをよぎる曲

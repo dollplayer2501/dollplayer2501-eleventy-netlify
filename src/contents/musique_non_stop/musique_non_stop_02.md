@@ -1,6 +1,6 @@
 ---
 title: Ott - Splitting An Atom
-permalink: /musique_non_stop_02.html
+permalink: /musique_non_stop/02/index.html
 eleventyNavigation:
   parent: musique_non_stop
   key: Ott - Splitting An Atom

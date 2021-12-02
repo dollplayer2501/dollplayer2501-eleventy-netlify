@@ -1,6 +1,6 @@
 ---
 title: Handkanten Akt from Vier Minuten
-permalink: /musique_non_stop_04.html
+permalink: /musique_non_stop/04/index.html
 eleventyNavigation:
   parent: musique_non_stop
   key: Handkanten Akt from Vier Minuten

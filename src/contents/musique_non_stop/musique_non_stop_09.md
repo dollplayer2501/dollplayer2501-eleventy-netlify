@@ -1,6 +1,6 @@
 ---
 title: 輝夜月 - Dance With Cinderella !
-permalink: /musique_non_stop_09.html
+permalink: /musique_non_stop/09/index.html
 eleventyNavigation:
   parent: musique_non_stop
   key: 輝夜月 - Dance With Cinderella !

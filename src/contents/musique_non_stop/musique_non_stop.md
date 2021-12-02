@@ -1,6 +1,6 @@
 ---
 title: 聴いていた曲を羅列してみる
-permalink: /musique_non_stop.html
+permalink: /musique_non_stop/index.html
 eleventyNavigation:
   key: musique_non_stop
   title: 聴いていた曲を羅列してみる

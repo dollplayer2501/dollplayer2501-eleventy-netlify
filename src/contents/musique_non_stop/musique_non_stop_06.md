@@ -1,6 +1,6 @@
 ---
 title: DJonemesis & Lilly - From Eldorado To The Pleiades
-permalink: /musique_non_stop_06.html
+permalink: /musique_non_stop/06/index.html
 eleventyNavigation:
   parent: musique_non_stop
   key: DJonemesis & Lilly - From Eldorado To The Pleiades (Instrumental)
