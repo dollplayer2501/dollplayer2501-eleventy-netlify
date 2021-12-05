@@ -18,7 +18,25 @@
 
 {% include "partials/header.njk" %}
 
+{% if undefined != image %}
+  <article class="container">
+    <div class="columns is-mobile">
+      <div class="column is-4 is-offset-7">
+        <figure class="image"><img src="/assets/images/{{ image }}"/></figure>
+      </div>
+    </div>
+  </article>
+{% endif %}
+
 {% block contentMain %}{% endblock %}
+
+  <article class="container">
+    <div class="columns is-mobile">
+      <div class="column is-3 is-offset-8">
+        <figure class="image"><img src="/assets/images/IMG_3989.jpg"/></figure>
+      </div>
+    </div>
+  </article>
 
 {% include "partials/footer.njk" %}
 
