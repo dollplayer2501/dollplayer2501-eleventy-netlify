@@ -3,6 +3,7 @@
 //
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const eleventyRssPlugin = require('@11ty/eleventy-plugin-rss');
+const sitemap = require('@quasibit/eleventy-plugin-sitemap');
 //
 const {DateTime} = require('luxon');
 //
@@ -110,6 +111,13 @@ module.exports = function (eleventyConfig) {
     },
     ui: false,
     ghostMode: false
+  });
+
+  //
+  eleventyConfig.addPlugin(sitemap, {
+    sitemap: {
+      hostname: 'https://dollplayer2501.netlify.app'
+    }
   });
 
   //
