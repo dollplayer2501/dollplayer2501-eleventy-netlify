@@ -38,6 +38,7 @@ Normally, 11ty specifies one output directory. It makes no distinction between p
 
 Below, implementation and operation check are insufficient.
 
+* Update [Eleventy][Eleventy-url]
 * Handling images via [eleventy-img](https://github.com/11ty/eleventy-img), now Gulp
 * ~~Table Of Contents of [markdown-it-table-of-contents](https://www.npmjs.com/package/markdown-it-table-of-contents) with [markdown-it-anchor](https://www.npmjs.com/package/markdown-it-anchor)~~
 * Footnotes of [markdown-it-footnote](https://www.npmjs.com/package/markdown-it-footnote)
